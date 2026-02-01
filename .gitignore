@@ -1,0 +1,19 @@
+# OpenClaw Workspace Backup
+
+# 敏感信息 - 排除
+openclaw.json
+*.log
+*.jsonl
+
+# 临时文件
+*.tmp
+.DS_Store
+node_modules/
+
+# 缓存
+.cache/
+*.cache
+
+# 备份文件
+*.backup
+*.bak
