@@ -1,168 +1,209 @@
 ---
 name: token-stats
-description: View token usage statistics and cost analysis for clawdbot conversations.
+description: Token 使用统计 - 扫描 session 日志并生成使用报告
 homepage: https://docs.openclaw.ai/skills#token-stats
 metadata: {"openclaw":{"emoji":"📊","always":true}}
 ---
 
 # Token Stats
 
-View and analyze token usage statistics for all conversations with clawdbot.
+Token 使用统计工具，自动扫描 session 日志并生成模型调用统计报告。
 
-## Quick Start
+## 功能
 
-The `token-stats` command is available at `~/.local/bin/token-stats`:
+- **自动扫描**: 定期扫描所有 session 文件，提取模型调用信息
+- **增量更新**: 只扫描上次扫描后新增的调用
+- **统计报告**: 查看按日期、模型分组的统计信息
+- **成本追踪**: 自动计算 API 调用成本
+
+## 文件结构
+
+```
+token-stats/
+├── SKILL.md
+└── scripts/
+    ├── scan.py           # 扫描 session 文件
+    ├── stats.py          # 生成统计报告
+    ├── token-stats       # 仅查看统计（命令）
+    └── token-stats-now   # 扫描+统计（命令）
+```
+
+## 数据文件
+
+- **Token 日志**: `/root/.openclaw/workspace/memory/token-usage.jsonl`
+- **扫描追踪**: `/root/.openclaw/workspace/memory/token-scan-tracker.json`
+
+## 命令
+
+### `/token_stats` - 扫描+统计（自定义命令）
+
+先执行扫描，然后显示完整统计报告。
+
+**功能：**
+- 扫描所有 session 文件，提取新的 token 使用记录
+- 显示完整统计报告（汇总、每日趋势、模型统计、成本分析、Top 10）
+
+**实现：** `token-stats-now`
+
+### `/token_stats_show` - 仅统计（自定义命令）
+
+直接显示已有统计数据，不执行扫描。
+
+**功能：**
+- 快速查看最新统计，无需等待扫描
+- 适合频繁查看统计的场景
+
+**实现：** `token-stats`
+
+### 命令行用法
 
 ```bash
-# Full statistics
+# 仅查看统计（不扫描）
 token-stats
 
-# Recent N conversations
-token-stats --recent 5
+# 扫描并统计
+token-stats-now
 
-# Grouped by date
+# 按日期分组统计
 token-stats --group-by date
+token-stats-now --group-by date
 
-# Grouped by model
+# 按模型分组统计
 token-stats --group-by model
+token-stats-now --group-by model
 
-# JSON output
-token-stats --format json
-```
-
-## Data Source
-
-Statistics are generated from `<workspace>/memory/token-usage.jsonl`, which is automatically maintained by the `token-monitor` skill and `token-logger` hook.
-
-Each conversation entry includes:
-- Timestamp and date
-- Provider and model used
-- Input/output/cache token counts
-- Cost breakdown (input/output/cache/total)
-
-## Available Commands
-
-### Full Statistics
-
-Show comprehensive statistics including:
-
-```
-token-stats
-```
-
-Output:
-- Period covered (date range)
-- Total API calls
-- Total tokens consumed
-- Total cost
-- Average tokens per call
-- Average cost per call
-- Breakdown by model
-- Top 10 conversations by token usage
-
-### Recent Conversations
-
-Show the last N conversations:
-
-```bash
+# 最近 N 次调用详情
 token-stats --recent 10
-```
+token-stats-now --recent 5
 
-Output includes timestamp, model, token counts, and cost.
+# 仅显示简化统计
+token-stats --simple
 
-### Grouped Statistics
-
-View usage grouped by date or model:
-
-```bash
-# By date
-token-stats --group-by date
-
-# By model
-token-stats --group-by model
-```
-
-### JSON Output
-
-Get statistics in JSON format for automation:
-
-```bash
+# JSON 格式输出
 token-stats --format json
+
+# 仅执行扫描（不输出统计）
+python3 /root/.openclaw/workspace/skills/token-stats/scripts/scan.py
 ```
 
-Output structure:
+## 定时任务
+
+建议配置 cron 任务，每 30 分钟自动扫描一次：
+
+```bash
+# 添加到 crontab
+*/30 * * * * /usr/bin/python3 /root/.openclaw/workspace/skills/token-stats/scripts/scan.py >> /var/log/token-stats-cron.log 2>&1
+```
+
+或者使用 OpenClaw 的 cron 功能：
+
 ```json
 {
-  "summary": {
-    "totalCalls": 71,
-    "totalTokens": 2252566,
-    "totalCost": 0.37838,
-    "avgTokensPerCall": 31726.28,
-    "dateRange": {
-      "start": "2026-02-01",
-      "end": "2026-02-01"
-    }
+  "schedule": {"kind": "every", "everyMs": 1800000},
+  "payload": {
+    "kind": "systemEvent",
+    "text": "请运行 token-stats 扫描任务"
   },
-  "byModel": { ... },
-  "byDate": { ... }
+  "sessionTarget": "main"
 }
 ```
 
-## Script Location
-
-The `token-stats` wrapper script is located at:
-```
-<workspace>/skills/token-stats/scripts/token-stats-wrapper.sh
-```
-
-It wraps the Python script at:
-```
-<workspace>/skills/token-monitor/scripts/token_stats.py
-```
-
-### Migration Notes
-
-All scripts and data are within the workspace for easy migration:
+## 统计输出示例
 
 ```
-<workspace>/
-├── skills/
-│   ├── token-monitor/
-│   │   ├── SKILL.md
-│   │   └── scripts/
-│   │       └── token_stats.py    # Core statistics script
-│   └── token-stats/
-│       ├── SKILL.md
-│       └── scripts/
-│           └── token-stats-wrapper.sh  # Command wrapper
-└── memory/
-    ├── token-usage.jsonl          # Token usage data
-    └── token-logger-tracker.json  # Tracker file
+======================================================================
+📊 TOKEN 使用统计汇总
+======================================================================
+统计周期:      2026-02-01 至 2026-02-03
+总调用次数:    327
+总 Token 数:   13,111,817
+  └─ 输入:     6,234,567 (47.5%)
+  └─ 输出:     1,234,890 (9.4%)
+  └─ 缓存读取: 5,642,360 (43.0%)
+输入/输出比:   5.05:1
+总成本:        $1.593352
+平均 Tokens/次: 40,097
+平均成本/次:   $0.004873
+
+----------------------------------------------------------------------
+📅 每日使用趋势
+----------------------------------------------------------------------
+  日期          调用        Tokens         成本           占比
+  ------------ -------- -------------- -------------- --------
+  2026-02-01      156      6,881,329     $1.593352      52.5%
+  2026-02-03      171      6,230,488     $0.000000      47.5%
+
+----------------------------------------------------------------------
+🤖 按模型统计
+----------------------------------------------------------------------
+  模型                         调用       Tokens        输入        输出        缓存         成本
+  ------------------------- ------ ------------ ------------ ------------ ------------ ------------
+  glm-4.5-flash                 68    3,504,184    3,401,234       45,678       57,272   $0.000000
+  glm-4.7                      178    6,881,329    2,123,456      234,567    4,523,306   $1.593352
+  kimi-for-coding               81    2,726,304      709,877      954,645    1,061,782   $0.000000
+
+----------------------------------------------------------------------
+💰 成本分析
+----------------------------------------------------------------------
+  模型                         成本           占比    $/1K Tokens   $/调用
+  ------------------------- -------------- -------- ------------- --------
+  glm-4.7                    $1.593352      100.0%   $0.231550    $0.008951
+  glm-4.5-flash              $0.000000        0.0%   $0.000000    $0.000000
+  kimi-for-coding            $0.000000        0.0%   $0.000000    $0.000000
+  ------------------------- -------------- --------
+  总计                       $1.593352      100.0%
+
+----------------------------------------------------------------------
+🏆 TOP 10 对话（按 Token 数）
+----------------------------------------------------------------------
+  排名 日期         模型                   Tokens         成本
+  ---- ------------ -------------------- ------------ ------------
+  1    2026-02-01   glm-4.7                 137,678   $0.083351
+  2    2026-02-01   glm-4.7                 137,373   $0.018537
+  ...
 ```
 
-To migrate to a new environment, copy the entire `<workspace>` directory.
+## 数据格式
 
-### Creating System Command
+每条 token 使用记录包含：
 
-For convenience, you can create a system-wide command:
+```json
+{
+  "timestamp": "2026-02-03T07:54:33.277Z",
+  "date": "2026-02-03",
+  "provider": "zai",
+  "model": "kimi-for-coding",
+  "input": 49,
+  "output": 71,
+  "cacheRead": 41738,
+  "cacheWrite": 0,
+  "totalTokens": 41858,
+  "cost": {
+    "input": 0.0000294,
+    "output": 0.0001562,
+    "cacheRead": 0.00459118,
+    "cacheWrite": 0,
+    "total": 0.00477678
+  }
+}
+```
+
+## 系统命令集成
+
+将命令添加到系统 PATH：
 
 ```bash
-# Create symlink (optional, for easy access)
-ln -s /root/.openclaw/workspace/skills/token-stats/scripts/token-stats-wrapper.sh /usr/local/bin/token-stats
-chmod +x /usr/local/bin/token-stats
+# 创建软链接
+ln -sf /root/.openclaw/workspace/skills/token-stats/scripts/token-stats /usr/local/bin/token-stats
+ln -sf /root/.openclaw/workspace/skills/token-stats/scripts/token-stats-now /usr/local/bin/token-stats-now
+
+# 现在可以直接使用
+token-stats
+token-stats-now
 ```
 
-Then you can run `token-stats` from anywhere.
+## 注意事项
 
-## Integration
-
-- **Automatic logging**: The `token-logger` hook automatically logs each conversation
-- **Manual viewing**: This skill provides the `token-stats` command for analysis
-- **Data persistence**: All data is stored in `<workspace>/memory/token-usage.jsonl`
-
-## Notes
-
-- Requires Python 3
-- Requires `token-usage.jsonl` to exist (created by `token-logger` hook)
-- No API calls needed - all analysis is local
-- Safe to run frequently - just reads local JSONL files
+1. **首次使用**: 运行 `token-stats-now` 进行首次扫描
+2. **数据持久化**: token-usage.jsonl 只追加不删除
+3. **增量扫描**: 自动跳过已记录的调用，避免重复

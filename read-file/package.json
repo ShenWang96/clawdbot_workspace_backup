@@ -1,0 +1,12 @@
+{
+  "name": "read-file-skill",
+  "version": "1.0.0",
+  "description": "OpenClaw skill for reading markdown files from docs and reports directories",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["openclaw", "skill", "file", "markdown"],
+  "author": "clawdbot",
+  "license": "MIT"
+}

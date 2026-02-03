@@ -24,20 +24,13 @@ memory/                        # 记忆文件
 └── YYYY-MM-DD.md               # 每日笔记（如存在）
 
 skills/                         # 技能目录
-├── token-monitor/              # Token 监控 skill
-│   ├── SKILL.md
-│   └── scripts/
-│       └── token_stats.py
-├── token-stats/                # Token 统计 skill
-│   ├── SKILL.md
-│   └── scripts/
-│       ├── token-stats-wrapper.sh
-│       └── token_stats.py
-└── token-stats-cron/            # Cron 提取 skill
+└── token-stats/                # Token 统计 skill（统一版本）
     ├── SKILL.md
     └── scripts/
-        ├── extract.py          # Python 提取器
-        └── extract.sh          # Shell 包装器
+        ├── scan.py             # Session 扫描器
+        ├── stats.py            # 统计报告生成器
+        ├── token-stats         # 查看统计（命令）
+        └── token-stats-now     # 扫描+统计（命令）
 
 .gitignore                      # Git 忽略文件（排除敏感信息和临时文件）
 backup.sh                        # 自动备份脚本（每天凌晨 2 点执行）
@@ -109,16 +102,16 @@ git config user.name "clawdbot"
 git config user.email "clawdbot@openclaw.ai"
 ```
 
-#### 步骤 5：配置 token-monitor Cron（需要手动设置）
+#### 步骤 5：配置 Token Stats Cron（需要手动设置）
 
-恢复后，token-stats-cron 的 cron 任务需要重新设置：
+恢复后，需要重新设置定时扫描任务：
 
 ```bash
 # 1. 编辑 crontab
 crontab -e
 
-# 2. 添加每小时提取任务（移除旧的）
-0 * * * * /root/.openclaw/workspace/skills/token-stats-cron/scripts/extract.sh extract >> /tmp/token-extract-cron.log 2>&1
+# 2. 添加每30分钟扫描任务
+*/30 * * * * /usr/bin/python3 /root/.openclaw/workspace/skills/token-stats/scripts/scan.py >> /tmp/token-stats-cron.log 2>&1
 
 # 3. 保存并退出
 ```
@@ -159,7 +152,7 @@ rm -rf /root/.openclaw/clawdbot-restore
 
 ### Token Tracker 文件
 
-**重要**：`memory/token-logger-tracker.json` 是增量更新的，恢复后从克隆的仓库中拉取会覆盖本地的追踪器。
+**重要**：`memory/token-scan-tracker.json` 是增量更新的，恢复后从克隆的仓库中拉取会覆盖本地的追踪器。
 
 **解决方案**：
 - 拉取备份后，保留本地 tracker 文件
@@ -187,8 +180,11 @@ OpenClaw 的默认 workspace 路径：`/root/.openclaw/workspace`
 恢复后可以通过以下命令查看统计：
 
 ```bash
-# 查看完整统计
+# 查看完整统计（仅输出已记录的数据）
 token-stats
+
+# 先扫描再统计（推荐）
+token-stats-now
 
 # 查看最近 10 次对话
 token-stats --recent 10
@@ -201,6 +197,9 @@ token-stats --group-by model
 
 # JSON 输出
 token-stats --format json
+
+# 手动扫描（不输出统计）
+python3 /root/.openclaw/workspace/skills/token-stats/scripts/scan.py
 ```
 
 ---

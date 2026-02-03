@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "skills": {
+    "vision-sandbox": {
+      "version": "1.1.0",
+      "installedAt": 1770087747405
+    },
+    "google-gemini-media": {
+      "version": "1.0.1",
+      "installedAt": 1770087753864
+    },
+    "claude": {
+      "version": "1.1.0",
+      "installedAt": 1770087758923
+    },
+    "gpt": {
+      "version": "1.1.0",
+      "installedAt": 1770087764387
+    }
+  }
+}

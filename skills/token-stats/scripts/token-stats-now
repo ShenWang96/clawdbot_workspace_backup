@@ -1,0 +1,20 @@
+#!/bin/bash
+#
+# Token Stats Now - 先扫描再输出统计
+#
+
+# 获取脚本真实路径（处理软链接）
+SCRIPT_SOURCE="${BASH_SOURCE[0]}"
+while [ -L "$SCRIPT_SOURCE" ]; do
+    SCRIPT_DIR="$(cd "$(dirname "$SCRIPT_SOURCE")" && pwd)"
+    SCRIPT_SOURCE="$(readlink "$SCRIPT_SOURCE")"
+    [[ $SCRIPT_SOURCE != /* ]] && SCRIPT_SOURCE="$SCRIPT_DIR/$SCRIPT_SOURCE"
+done
+SCRIPT_DIR="$(cd "$(dirname "$SCRIPT_SOURCE")" && pwd)"
+
+echo "🔍 正在扫描 session 文件..."
+python3 "$SCRIPT_DIR/scan.py"
+
+echo ""
+echo "📊 统计结果:"
+python3 "$SCRIPT_DIR/stats.py" "$@"
