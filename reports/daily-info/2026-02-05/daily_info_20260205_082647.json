@@ -1,0 +1,3091 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-02-05",
+  "collection_time": "2026-02-05T08:27:00.392179",
+  "summary": {
+    "total_items": 60,
+    "total_sources": 3,
+    "successful_sources": 3,
+    "failed_sources": 0,
+    "categories": {
+      "tech": {
+        "count": 60,
+        "sources": [
+          "hackernews",
+          "devto",
+          "github"
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "id": "1147094660",
+      "title": "nanobot",
+      "content": {
+        "summary": "\"🐈 nanobot: The Ultra-Lightweight Clawdbot\"",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/HKUDS/nanobot",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 5504,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "HKUDS",
+        "avatar": "https://avatars.githubusercontent.com/u/118165258?v=4"
+      },
+      "time": {
+        "published": "2026-02-01T07:16:15Z",
+        "collected": "2026-02-05T08:26:48.454657"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 1,
+        "collection_time": "2026-02-05T08:26:48.454673"
+      }
+    },
+    {
+      "id": "1146738089",
+      "title": "nanoclaw",
+      "content": {
+        "summary": "My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/gavrielc/nanoclaw",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 4593,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "gavrielc",
+        "avatar": "https://avatars.githubusercontent.com/u/20087851?v=4"
+      },
+      "time": {
+        "published": "2026-01-31T15:47:22Z",
+        "collected": "2026-02-05T08:26:48.454682"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 2,
+        "collection_time": "2026-02-05T08:26:48.454683"
+      }
+    },
+    {
+      "id": "1145786318",
+      "title": "awesome-ai-research-writing",
+      "content": {
+        "summary": "Elevate your AI research writing, no more tedious polishing ✨ ",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/Leey21/awesome-ai-research-writing",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 3021,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Leey21",
+        "avatar": "https://avatars.githubusercontent.com/u/112166430?v=4"
+      },
+      "time": {
+        "published": "2026-01-30T07:59:30Z",
+        "collected": "2026-02-05T08:26:48.454689"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 3,
+        "collection_time": "2026-02-05T08:26:48.454691"
+      }
+    },
+    {
+      "id": "1147679251",
+      "title": "tirith",
+      "content": {
+        "summary": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/sheeki03/tirith",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 1196,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "sheeki03",
+        "avatar": "https://avatars.githubusercontent.com/u/36009418?v=4"
+      },
+      "time": {
+        "published": "2026-02-02T04:33:47Z",
+        "collected": "2026-02-05T08:26:48.454696"
+      },
+      "category": "tech",
+      "tags": [
+        "cli",
+        "devtools",
+        "homograph-attack",
+        "rust",
+        "security",
+        "shell",
+        "supply-chain-security",
+        "terminal",
+        "unicode",
+        "url-security"
+      ],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 4,
+        "collection_time": "2026-02-05T08:26:48.454698"
+      }
+    },
+    {
+      "id": "1146004684",
+      "title": "dash",
+      "content": {
+        "summary": "Self-learning data agent that grounds its answers in 6 layers of context. Inspired by OpenAI's in-house implementation.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/agno-agi/dash",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 1142,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "agno-agi",
+        "avatar": "https://avatars.githubusercontent.com/u/104874993?v=4"
+      },
+      "time": {
+        "published": "2026-01-30T13:54:17Z",
+        "collected": "2026-02-05T08:26:48.454706"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 5,
+        "collection_time": "2026-02-05T08:26:48.454708"
+      }
+    },
+    {
+      "id": "1145749657",
+      "title": "PaperBanana",
+      "content": {
+        "summary": "PaperBanana: Automating Academic Illustration For AI Scientists",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/dwzhu-pku/PaperBanana",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 1058,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "dwzhu-pku",
+        "avatar": "https://avatars.githubusercontent.com/u/52273452?v=4"
+      },
+      "time": {
+        "published": "2026-01-30T06:55:48Z",
+        "collected": "2026-02-05T08:26:48.454714"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 6,
+        "collection_time": "2026-02-05T08:26:48.454715"
+      }
+    },
+    {
+      "id": "1145977416",
+      "title": "OpenClawChineseTranslation",
+      "content": {
+        "summary": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/1186258278/OpenClawChineseTranslation",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 715,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "1186258278",
+        "avatar": "https://avatars.githubusercontent.com/u/42165041?v=4"
+      },
+      "time": {
+        "published": "2026-01-30T13:12:57Z",
+        "collected": "2026-02-05T08:26:48.454721"
+      },
+      "category": "tech",
+      "tags": [
+        "ai-assistant",
+        "chatbot",
+        "chinese",
+        "claude-ai",
+        "clawd",
+        "clawdbot",
+        "discord",
+        "lobster",
+        "localization",
+        "moltbot",
+        "nodejs",
+        "open-source",
+        "openclaw",
+        "telegram",
+        "whatsapp",
+        "zh-cn"
+      ],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 7,
+        "collection_time": "2026-02-05T08:26:48.454723"
+      }
+    },
+    {
+      "id": "1146028508",
+      "title": "Kimi-K2.5",
+      "content": {
+        "summary": "Moonshot's most powerful model",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/MoonshotAI/Kimi-K2.5",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 687,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "MoonshotAI",
+        "avatar": "https://avatars.githubusercontent.com/u/129152888?v=4"
+      },
+      "time": {
+        "published": "2026-01-30T14:29:16Z",
+        "collected": "2026-02-05T08:26:48.454734"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 8,
+        "collection_time": "2026-02-05T08:26:48.454739"
+      }
+    },
+    {
+      "id": "1146393894",
+      "title": "Step-3.5-Flash",
+      "content": {
+        "summary": "Fast, Sharp & Reliable Agentic Intelligence",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/stepfun-ai/Step-3.5-Flash",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 549,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "stepfun-ai",
+        "avatar": "https://avatars.githubusercontent.com/u/178004800?v=4"
+      },
+      "time": {
+        "published": "2026-01-31T02:57:03Z",
+        "collected": "2026-02-05T08:26:48.454745"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 9,
+        "collection_time": "2026-02-05T08:26:48.454747"
+      }
+    },
+    {
+      "id": "1147992203",
+      "title": "GLM-OCR",
+      "content": {
+        "summary": "GLM-OCR: Accurate ×  Fast × Comprehensive",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/zai-org/GLM-OCR",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 502,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "zai-org",
+        "avatar": "https://avatars.githubusercontent.com/u/223098841?v=4"
+      },
+      "time": {
+        "published": "2026-02-02T12:59:43Z",
+        "collected": "2026-02-05T08:26:48.454754"
+      },
+      "category": "tech",
+      "tags": [
+        "glm",
+        "image2text",
+        "ocr"
+      ],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 10,
+        "collection_time": "2026-02-05T08:26:48.454756"
+      }
+    },
+    {
+      "id": "1146981739",
+      "title": "MAHORAGA",
+      "content": {
+        "summary": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/ygwyg/MAHORAGA",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 436,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "ygwyg",
+        "avatar": "https://avatars.githubusercontent.com/u/167489839?v=4"
+      },
+      "time": {
+        "published": "2026-02-01T01:49:05Z",
+        "collected": "2026-02-05T08:26:48.454763"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 11,
+        "collection_time": "2026-02-05T08:26:48.454766"
+      }
+    },
+    {
+      "id": "1145741988",
+      "title": "Pretty-mermaid-skills",
+      "content": {
+        "summary": "To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/imxv/Pretty-mermaid-skills",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 404,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "imxv",
+        "avatar": "https://avatars.githubusercontent.com/u/116082154?v=4"
+      },
+      "time": {
+        "published": "2026-01-30T06:41:40Z",
+        "collected": "2026-02-05T08:26:48.454770"
+      },
+      "category": "tech",
+      "tags": [
+        "mermaid",
+        "skills"
+      ],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 12,
+        "collection_time": "2026-02-05T08:26:48.454771"
+      }
+    },
+    {
+      "id": "1147761848",
+      "title": "VibeSec-Skill",
+      "content": {
+        "summary": "This skill helps Claude write secure code and prevent common vulnerabilities.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/BehiSecc/VibeSec-Skill",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 320,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "BehiSecc",
+        "avatar": "https://avatars.githubusercontent.com/u/226653201?v=4"
+      },
+      "time": {
+        "published": "2026-02-02T07:10:42Z",
+        "collected": "2026-02-05T08:26:48.454775"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 13,
+        "collection_time": "2026-02-05T08:26:48.454776"
+      }
+    },
+    {
+      "id": "1146193768",
+      "title": "agent-device",
+      "content": {
+        "summary": "CLI to control iOS and Android devices for AI agents",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/callstackincubator/agent-device",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 308,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "callstackincubator",
+        "avatar": "https://avatars.githubusercontent.com/u/40356278?v=4"
+      },
+      "time": {
+        "published": "2026-01-30T18:41:54Z",
+        "collected": "2026-02-05T08:26:48.454780"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 14,
+        "collection_time": "2026-02-05T08:26:48.454781"
+      }
+    },
+    {
+      "id": "1146647912",
+      "title": "real-time-fund",
+      "content": {
+        "summary": "基金实时估值查看",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/hzm0321/real-time-fund",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 284,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "hzm0321",
+        "avatar": "https://avatars.githubusercontent.com/u/35420713?v=4"
+      },
+      "time": {
+        "published": "2026-01-31T12:55:02Z",
+        "collected": "2026-02-05T08:26:48.454787"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 15,
+        "collection_time": "2026-02-05T08:26:48.454789"
+      }
+    },
+    {
+      "id": "1146342470",
+      "title": "skills-npm",
+      "content": {
+        "summary": "Install agent skills from npm",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/antfu/skills-npm",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 266,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "antfu",
+        "avatar": "https://avatars.githubusercontent.com/u/11247099?v=4"
+      },
+      "time": {
+        "published": "2026-01-31T00:14:58Z",
+        "collected": "2026-02-05T08:26:48.454794"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 16,
+        "collection_time": "2026-02-05T08:26:48.454795"
+      }
+    },
+    {
+      "id": "1146426488",
+      "title": "BigBanana-AI-Director",
+      "content": {
+        "summary": "BigBanana AI Director是一个 AI 一站式短剧/漫剧平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 \"Script-to-Asset-to-Keyframe\" 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/shuyu-labs/BigBanana-AI-Director",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 262,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "shuyu-labs",
+        "avatar": "https://avatars.githubusercontent.com/u/257786265?v=4"
+      },
+      "time": {
+        "published": "2026-01-31T04:31:32Z",
+        "collected": "2026-02-05T08:26:48.454799"
+      },
+      "category": "tech",
+      "tags": [
+        "ai-comic-drama",
+        "ai-short-drama",
+        "ai-video"
+      ],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 17,
+        "collection_time": "2026-02-05T08:26:48.454800"
+      }
+    },
+    {
+      "id": "1148459032",
+      "title": "CodexDesktop-Rebuild",
+      "content": {
+        "summary": "Codex Desktop App - Cross-platform Rebuild",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/Haleclipse/CodexDesktop-Rebuild",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 261,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Haleclipse",
+        "avatar": "https://avatars.githubusercontent.com/u/15519695?v=4"
+      },
+      "time": {
+        "published": "2026-02-03T01:43:12Z",
+        "collected": "2026-02-05T08:26:48.454806"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 18,
+        "collection_time": "2026-02-05T08:26:48.454807"
+      }
+    },
+    {
+      "id": "1147148934",
+      "title": "openclaw-mini",
+      "content": {
+        "summary": "🦞 OpenClaw 核心架构的极简复现，涵盖 sessionKey 会话域、队列串行、工具化记忆检索、按需上下文加载、可扩展技能与主动心跳唤醒机制",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/voocel/openclaw-mini",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 241,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "voocel",
+        "avatar": "https://avatars.githubusercontent.com/u/21246707?v=4"
+      },
+      "time": {
+        "published": "2026-02-01T09:24:33Z",
+        "collected": "2026-02-05T08:26:48.454811"
+      },
+      "category": "tech",
+      "tags": [
+        "agent",
+        "ai",
+        "clawdbot",
+        "openclaw"
+      ],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 19,
+        "collection_time": "2026-02-05T08:26:48.454812"
+      }
+    },
+    {
+      "id": "1147642224",
+      "title": "xw-cli",
+      "content": {
+        "summary": "实现国产算力大模型零门槛部署，一键跑通 Qwen、GLM-4.7、Minimax-2.1、DeepSeek-OCR 等模型",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/TsingmaoAI/xw-cli",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 236,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "TsingmaoAI",
+        "avatar": "https://avatars.githubusercontent.com/u/171784169?v=4"
+      },
+      "time": {
+        "published": "2026-02-02T03:07:20Z",
+        "collected": "2026-02-05T08:26:48.454815"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 20,
+        "collection_time": "2026-02-05T08:26:48.454817"
+      }
+    },
+    {
+      "id": "46886735",
+      "title": "Voxtral Transcribe 2",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://mistral.ai/news/voxtral-transcribe-2",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 679,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 167,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "meetpateltech",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:26:50.094109"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 1,
+        "collection_time": "2026-02-05T08:26:50.094123"
+      }
+    },
+    {
+      "id": "46893018",
+      "title": "As Rocks May Think",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://evjang.com/2026/02/04/rocks.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 30,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 8,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "modeless",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:26:50.505354"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 2,
+        "collection_time": "2026-02-05T08:26:50.505370"
+      }
+    },
+    {
+      "id": "46845845",
+      "title": "Claude Code: connect to a local model when your quota runs out",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 163,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 70,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "fugu2",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:26:50.913767"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 3,
+        "collection_time": "2026-02-05T08:26:50.913781"
+      }
+    },
+    {
+      "id": "46889703",
+      "title": "Claude Code for Infrastructure",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.fluid.sh/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 123,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 102,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "aspectrr",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:26:51.320414"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 4,
+        "collection_time": "2026-02-05T08:26:51.320429"
+      }
+    },
+    {
+      "id": "46845642",
+      "title": "Remarkable Pro Colors",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 44,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 17,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "ffaser5gxlsll",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:26:51.726217"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 5,
+        "collection_time": "2026-02-05T08:26:51.726232"
+      }
+    },
+    {
+      "id": "46888441",
+      "title": "AI is killing B2B SaaS",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://nmn.gl/blog/ai-killing-b2b-saas",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 193,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 331,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "namanyayg",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:26:52.132594"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 6,
+        "collection_time": "2026-02-05T08:26:52.132608"
+      }
+    },
+    {
+      "id": "46888795",
+      "title": "Building a 24-bit arcade CRT display adapter from scratch",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 109,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 29,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "evakhoury",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:26:52.541713"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 7,
+        "collection_time": "2026-02-05T08:26:52.541727"
+      }
+    },
+    {
+      "id": "46845239",
+      "title": "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://sqldef.github.io/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 24,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 4,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Palmik",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:26:52.953052"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 8,
+        "collection_time": "2026-02-05T08:26:52.953098"
+      }
+    },
+    {
+      "id": "46877278",
+      "title": "Tractor",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://incoherency.co.uk/blog/stories/tractor.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 137,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 45,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "surprisetalk",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:26:53.359854"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 9,
+        "collection_time": "2026-02-05T08:26:53.359869"
+      }
+    },
+    {
+      "id": "46887564",
+      "title": "Microsoft's Copilot chatbot is running into problems",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 89,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 122,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "fortran77",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:26:53.786587"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 10,
+        "collection_time": "2026-02-05T08:26:53.786602"
+      }
+    },
+    {
+      "id": "46891860",
+      "title": "A real-world benchmark for AI code review",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 32,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 13,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "benocodes",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:26:54.208511"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 11,
+        "collection_time": "2026-02-05T08:26:54.208526"
+      }
+    },
+    {
+      "id": "46886265",
+      "title": "Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://arxiv.org/abs/2602.00294",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 144,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 79,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "fheinsen",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:26:54.616584"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 12,
+        "collection_time": "2026-02-05T08:26:54.616600"
+      }
+    },
+    {
+      "id": "46872465",
+      "title": "A sane but bull case on Clawdbot / OpenClaw",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://brandon.wang/2026/clawdbot",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 235,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 375,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "brdd",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:26:55.026266"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 13,
+        "collection_time": "2026-02-05T08:26:55.026281"
+      }
+    },
+    {
+      "id": "46888142",
+      "title": "RS-SDK: Drive RuneScape with Claude Code",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/MaxBittker/rs-sdk",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 91,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 34,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "evakhoury",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:26:55.435336"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 14,
+        "collection_time": "2026-02-05T08:26:55.435350"
+      }
+    },
+    {
+      "id": "46845617",
+      "title": "Data Poems",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dr.eamer.dev/datavis/poems/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 18,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 4,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "putzdown",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:26:55.849499"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 15,
+        "collection_time": "2026-02-05T08:26:55.849515"
+      }
+    },
+    {
+      "id": "46887326",
+      "title": "Arcan-A12: Weaving a Different Web",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.divergent-desktop.org/blog/2026/01/26/a12web/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 45,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 14,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "ingenieroariel",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:26:56.260270"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 16,
+        "collection_time": "2026-02-05T08:26:56.260285"
+      }
+    },
+    {
+      "id": "46844410",
+      "title": "Coding Agent VMs on NixOS with Microvm.nix",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 78,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 37,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "secure",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:26:56.668241"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 17,
+        "collection_time": "2026-02-05T08:26:56.668256"
+      }
+    },
+    {
+      "id": "46891131",
+      "title": "The Codex app illustrates the shift left of IDEs and coding GUIs",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.benshoemaker.us/writing/codex-app-launch/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 54,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 115,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "straydusk",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:26:57.077701"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 18,
+        "collection_time": "2026-02-05T08:26:57.077716"
+      }
+    },
+    {
+      "id": "46884883",
+      "title": "Claude is a space to think",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 337,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 180,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "meetpateltech",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:26:57.484861"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 19,
+        "collection_time": "2026-02-05T08:26:57.484875"
+      }
+    },
+    {
+      "id": "46888331",
+      "title": "Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person)",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.runconverge.com/careers/product-engineer",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 1,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "thomashlvt",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:26:57.896771"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 20,
+        "collection_time": "2026-02-05T08:26:57.896786"
+      }
+    },
+    {
+      "id": "3205431",
+      "title": "Is Learning CSS a Waste of Time in 2026?",
+      "content": {
+        "summary": "With modern frameworks, component libraries, and utility-first CSS, it’s a fair question.  Most...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/sylwia-lask/is-learning-css-a-waste-of-time-in-2026-nj3",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 156,
+          "comments": 189,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Sylwia Laskowska",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3535771%2Fe22860d5-274b-43c9-819b-56b162e5bd5a.jpeg"
+      },
+      "time": {
+        "published": "2026-01-29T11:07:18Z",
+        "collected": "2026-02-05T08:26:59.391699"
+      },
+      "category": "tech",
+      "tags": [
+        "css",
+        "webdev",
+        "frontend",
+        "a11y"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 1,
+        "collection_time": "2026-02-05T08:26:59.391715"
+      }
+    },
+    {
+      "id": "3216141",
+      "title": "Should Junior Developers Still Learn JavaScript the Hard Way?",
+      "content": {
+        "summary": "Let’s define “the hard way” first.  Not:   Watching a 6-hour tutorial at 1.5× speed Copy-pasting code...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 141,
+          "comments": 114,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Art light",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3623264%2F9153b8c6-8ac5-4b16-8507-01ca84f8d020.jpeg"
+      },
+      "time": {
+        "published": "2026-02-01T08:16:04Z",
+        "collected": "2026-02-05T08:26:59.391725"
+      },
+      "category": "tech",
+      "tags": [
+        "programming",
+        "webdev",
+        "javascript",
+        "beginners"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 2,
+        "collection_time": "2026-02-05T08:26:59.391727"
+      }
+    },
+    {
+      "id": "3207153",
+      "title": "The Internet’s Addiction to Being Contrary",
+      "content": {
+        "summary": "Lately, I've noticed that many online discussions don't really feel like discussions anymore. Instead...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/richardpascoe/the-internets-addiction-to-being-contrary-42ni",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 104,
+          "comments": 116,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Richard Pascoe",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3689026%2F3359cbba-3c0a-4759-9889-0b30af7894cd.jpeg"
+      },
+      "time": {
+        "published": "2026-01-29T17:00:22Z",
+        "collected": "2026-02-05T08:26:59.391733"
+      },
+      "category": "tech",
+      "tags": [
+        "discuss",
+        "community"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 3,
+        "collection_time": "2026-02-05T08:26:59.391734"
+      }
+    },
+    {
+      "id": "3208863",
+      "title": "Unpopular Opinion: I stopped coding on weekends and my career got better.",
+      "content": {
+        "summary": "For years, I lived with a constant, low-level hum of guilt. ​You know the feeling. It’s Saturday...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/the_nortern_dev/unpopular-opinion-i-stopped-coding-on-weekends-and-my-career-got-better-3el",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 93,
+          "comments": 92,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "NorthernDev",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3630167%2F2e206d7e-04d3-484b-8a73-1f98d17a0e1a.png"
+      },
+      "time": {
+        "published": "2026-01-29T23:00:28Z",
+        "collected": "2026-02-05T08:26:59.391739"
+      },
+      "category": "tech",
+      "tags": [
+        "career",
+        "discuss",
+        "productivity",
+        "mentalhealth"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 4,
+        "collection_time": "2026-02-05T08:26:59.391740"
+      }
+    },
+    {
+      "id": "3204272",
+      "title": "Online Community Demise and why DEV is Different (at least a little bit, I hope)",
+      "content": {
+        "summary": "I recently claimed that we might look back on the 2010s decade and early 2020 years as a golden age...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/ingosteinke/online-community-demise-and-why-dev-is-different-16km",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 49,
+          "comments": 33,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Ingo Steinke, web developer",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F233697%2Fc55514eb-8ec3-47cf-8f65-5be0ef2b1849.jpg"
+      },
+      "time": {
+        "published": "2026-02-02T12:47:08Z",
+        "collected": "2026-02-05T08:26:59.391745"
+      },
+      "category": "tech",
+      "tags": [
+        "watercooler"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 5,
+        "collection_time": "2026-02-05T08:26:59.391749"
+      }
+    },
+    {
+      "id": "3197052",
+      "title": "Why I Sometimes Leave Tech Events Feeling Smaller",
+      "content": {
+        "summary": "I haven’t attended many developer events. The few I have attended left me with a strange aftertaste....",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/itsugo/why-i-sometimes-leave-tech-events-feeling-smaller-3p55",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 44,
+          "comments": 48,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Aryan Choudhary",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2353063%2F680547a0-c940-4906-bea5-d5fef2633782.png"
+      },
+      "time": {
+        "published": "2026-01-29T17:40:01Z",
+        "collected": "2026-02-05T08:26:59.391754"
+      },
+      "category": "tech",
+      "tags": [
+        "career",
+        "learning",
+        "community",
+        "developers"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 6,
+        "collection_time": "2026-02-05T08:26:59.391756"
+      }
+    },
+    {
+      "id": "3230200",
+      "title": "Moltbook Is Not an AI Society",
+      "content": {
+        "summary": "Moltbook has been circulating as an \"AI-only social network\" where autonomous agents post, argue,...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/richardpascoe/moltbook-is-not-an-ai-society-4h6d",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 35,
+          "comments": 19,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Richard Pascoe",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3689026%2F3359cbba-3c0a-4759-9889-0b30af7894cd.jpeg"
+      },
+      "time": {
+        "published": "2026-02-04T08:45:13Z",
+        "collected": "2026-02-05T08:26:59.391762"
+      },
+      "category": "tech",
+      "tags": [
+        "discuss",
+        "ai"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 7,
+        "collection_time": "2026-02-05T08:26:59.391764"
+      }
+    },
+    {
+      "id": "3208219",
+      "title": "GitHub Copilot CLI Challenge Badges Are Here + 28 Chances to Win a Prize!",
+      "content": {
+        "summary": "First of all, this is such a crazy cover image. I love/hate it.   Second of all, and more...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/devteam/github-copilot-cli-challenge-badges-are-here-28-chances-to-win-a-prize-3c42",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 45,
+          "comments": 6,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Jess Lee",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F264%2Fb75f6edf-df7b-406e-a56b-43facafb352c.jpg"
+      },
+      "time": {
+        "published": "2026-01-29T16:14:07Z",
+        "collected": "2026-02-05T08:26:59.391772"
+      },
+      "category": "tech",
+      "tags": [
+        "devchallenge",
+        "githubchallenge"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 8,
+        "collection_time": "2026-02-05T08:26:59.391774"
+      }
+    },
+    {
+      "id": "3222247",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "content": {
+        "summary": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-bao",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 33,
+          "comments": 11,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Jess Lee",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F264%2Fb75f6edf-df7b-406e-a56b-43facafb352c.jpg"
+      },
+      "time": {
+        "published": "2026-02-03T15:39:39Z",
+        "collected": "2026-02-05T08:26:59.391779"
+      },
+      "category": "tech",
+      "tags": [
+        "top7",
+        "discuss"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 9,
+        "collection_time": "2026-02-05T08:26:59.391780"
+      }
+    },
+    {
+      "id": "3220101",
+      "title": "Setting Up OpenClaw on exe.dev with Discord",
+      "content": {
+        "summary": "I'll be honest—when I first heard about Clawdbot (now rebranded as OpenClaw) a few weeks back, I had...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/bdougieyo/setting-up-openclaw-on-exedev-with-discord-27n",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 22,
+          "comments": 2,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Brian Douglas",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F19970%2F6dc0f11e-a4da-4762-aed8-11f70143d31b.jpeg"
+      },
+      "time": {
+        "published": "2026-02-02T06:11:52Z",
+        "collected": "2026-02-05T08:26:59.391786"
+      },
+      "category": "tech",
+      "tags": [
+        "ai",
+        "llm",
+        "coding"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 10,
+        "collection_time": "2026-02-05T08:26:59.391787"
+      }
+    },
+    {
+      "id": "3144034",
+      "title": "What was your win this week?",
+      "content": {
+        "summary": "👋👋👋👋  Looking back on your week -- what was something you're proud of?  All wins count -- big or...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/devteam/what-was-your-win-this-week-1916",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 39,
+          "comments": 78,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Jess Lee",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F264%2Fb75f6edf-df7b-406e-a56b-43facafb352c.jpg"
+      },
+      "time": {
+        "published": "2026-01-30T13:00:00Z",
+        "collected": "2026-02-05T08:26:59.391794"
+      },
+      "category": "tech",
+      "tags": [
+        "weeklyretro",
+        "discuss"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 11,
+        "collection_time": "2026-02-05T08:26:59.391795"
+      }
+    },
+    {
+      "id": "3210948",
+      "title": "The Compiler Never Used Sarcasm: Why AI Feels Unsafe to the Neurodivergent Coder",
+      "content": {
+        "summary": "I have been writing code for 45 years. I started when \"memory\" was something you counted in bytes,...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/btarbox/the-compiler-never-used-sarcasm-why-ai-feels-unsafe-to-the-neurodivergent-coder-30i3",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 32,
+          "comments": 2,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Brian Tarbox",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F411336%2F632c153c-4f37-4a2d-bf76-9a13870a8249.jpg"
+      },
+      "time": {
+        "published": "2026-02-02T14:20:01Z",
+        "collected": "2026-02-05T08:26:59.391801"
+      },
+      "category": "tech",
+      "tags": [
+        "ai",
+        "discuss",
+        "llm",
+        "programming"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 12,
+        "collection_time": "2026-02-05T08:26:59.391802"
+      }
+    },
+    {
+      "id": "3227855",
+      "title": "Why do you write?",
+      "content": {
+        "summary": "A recognition   There is a line by @sylwia-lask that stayed with me when I first read it....",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/itsugo/why-do-you-write-5bkf",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 40,
+          "comments": 21,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Aryan Choudhary",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2353063%2F680547a0-c940-4906-bea5-d5fef2633782.png"
+      },
+      "time": {
+        "published": "2026-02-04T05:41:16Z",
+        "collected": "2026-02-05T08:26:59.391808"
+      },
+      "category": "tech",
+      "tags": [
+        "discuss",
+        "programming",
+        "learning",
+        "mentalhealth"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 13,
+        "collection_time": "2026-02-05T08:26:59.391810"
+      }
+    },
+    {
+      "id": "3226841",
+      "title": "I Vibe Coded a Multiplayer ASL Game using MQTT! 🌐",
+      "content": {
+        "summary": "Last year (2 months ago), I created a game using p5.js and ml5.js that uses Machine Learning to...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/francistrdev/i-vibe-coded-a-multiplayer-asl-game-using-mqtt-480",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 32,
+          "comments": 7,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "👾 FrancisTRDev 👾",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3711376%2F746cce1f-2c09-40fc-9742-387af1855b6d.gif"
+      },
+      "time": {
+        "published": "2026-02-03T18:25:56Z",
+        "collected": "2026-02-05T08:26:59.391813"
+      },
+      "category": "tech",
+      "tags": [
+        "mqtt",
+        "webdev",
+        "discuss",
+        "showdev"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 14,
+        "collection_time": "2026-02-05T08:26:59.391814"
+      }
+    },
+    {
+      "id": "3211229",
+      "title": "🔬 Copilot Autopsy: AI-Powered Repository Forensics",
+      "content": {
+        "summary": "This is a submission for the GitHub Copilot CLI Challenge           What I Built   Copilot Autopsy is...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/xdarwin13/copilot-autopsy-ai-powered-repository-forensics-4ehf",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 10,
+          "comments": 1,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Darwin David Perez Muñoz",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3740742%2Fa3037434-fc48-44f7-b374-46aa5bf255d5.jpeg"
+      },
+      "time": {
+        "published": "2026-01-30T17:49:09Z",
+        "collected": "2026-02-05T08:26:59.391823"
+      },
+      "category": "tech",
+      "tags": [
+        "githubchallenge",
+        "cli",
+        "githubcopilot",
+        "devchallenge"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 15,
+        "collection_time": "2026-02-05T08:26:59.391825"
+      }
+    },
+    {
+      "id": "3203785",
+      "title": "The Valley of Code: A Learning Resource",
+      "content": {
+        "summary": "I first came across Flavio Copes a few years ago while searching for clear, practical guides on web...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/richardpascoe/the-valley-of-code-a-learning-resource-303o",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 41,
+          "comments": 12,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Richard Pascoe",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3689026%2F3359cbba-3c0a-4759-9889-0b30af7894cd.jpeg"
+      },
+      "time": {
+        "published": "2026-01-29T10:00:08Z",
+        "collected": "2026-02-05T08:26:59.391828"
+      },
+      "category": "tech",
+      "tags": [
+        "community",
+        "learning",
+        "programming",
+        "webdev"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 16,
+        "collection_time": "2026-02-05T08:26:59.391829"
+      }
+    },
+    {
+      "id": "3228463",
+      "title": "Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems",
+      "content": {
+        "summary": "The web platform is way more powerful than most developers realize — and every year it quietly gains...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 43,
+          "comments": 19,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Sylwia Laskowska",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3535771%2Fe22860d5-274b-43c9-819b-56b162e5bd5a.jpeg"
+      },
+      "time": {
+        "published": "2026-02-04T11:05:13Z",
+        "collected": "2026-02-05T08:26:59.391832"
+      },
+      "category": "tech",
+      "tags": [
+        "webdev",
+        "frontend",
+        "javascript"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 17,
+        "collection_time": "2026-02-05T08:26:59.391834"
+      }
+    },
+    {
+      "id": "3206289",
+      "title": "Is the language war even real?",
+      "content": {
+        "summary": "Every few years, the tech world seems to restart the same argument. Java vs C#. Python vs JavaScript....",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/ujja/is-the-language-war-even-real-13n0",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 35,
+          "comments": 20,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "ujja",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F439943%2F774d42c6-75e1-4247-8688-30020ce8f40a.png"
+      },
+      "time": {
+        "published": "2026-01-29T01:53:33Z",
+        "collected": "2026-02-05T08:26:59.391841"
+      },
+      "category": "tech",
+      "tags": [
+        "programming",
+        "discuss",
+        "coding",
+        "software"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 18,
+        "collection_time": "2026-02-05T08:26:59.391842"
+      }
+    },
+    {
+      "id": "3204123",
+      "title": "Above the API: What Developers Contribute When AI Can Code",
+      "content": {
+        "summary": "An AI researcher told me something that won't leave my head:   \"If a human cannot outperform or...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/dannwaneri/above-the-api-what-developers-contribute-when-ai-can-code-5025",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 35,
+          "comments": 25,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Daniel Nwaneri",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3606168%2Fa6853c87-4daa-4bea-87e8-d1bd0d8a59d7.jpg"
+      },
+      "time": {
+        "published": "2026-02-03T04:48:49Z",
+        "collected": "2026-02-05T08:26:59.391846"
+      },
+      "category": "tech",
+      "tags": [
+        "ai",
+        "webdev",
+        "career",
+        "discuss"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 19,
+        "collection_time": "2026-02-05T08:26:59.391847"
+      }
+    },
+    {
+      "id": "3210230",
+      "title": "I'm Passing on the GitHub CoPilot CLI Challenge",
+      "content": {
+        "summary": "I'm an advocate of AI - both small and large language models. I'm also an advocate of dev.to, which I...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/ben-santora/im-passing-on-thegithub-copilot-cli-challenge-38fo",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 24,
+          "comments": 19,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Ben Santora ",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3688514%2F15433659-ac91-467c-a27f-2bf4b7d7f409.jpg"
+      },
+      "time": {
+        "published": "2026-01-30T10:34:52Z",
+        "collected": "2026-02-05T08:26:59.391850"
+      },
+      "category": "tech",
+      "tags": [
+        "discuss",
+        "privacy",
+        "linux"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 20,
+        "collection_time": "2026-02-05T08:26:59.391851"
+      }
+    }
+  ]
+}
