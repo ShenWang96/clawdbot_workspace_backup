@@ -2,6 +2,25 @@
 
 ## 定时任务 (Cron Jobs)
 
+### 0. Workspace 每日自动备份 ⭐ NEW
+| 项目 | 详情 |
+|------|------|
+| **时间** | 每天 02:00 (GMT+8) |
+| **脚本** | `/root/.openclaw/workspace/backup.sh` |
+| **日志** | `/tmp/workspace-backup.log` |
+| **状态** | ✅ 已配置 |
+
+**任务内容**:
+- 自动检测 workspace 变更
+- Git 提交并推送到 GitHub 私有仓库
+- 保留完整历史记录
+- 无变更时跳过执行
+
+**查看日志**:
+```bash
+tail -f /tmp/workspace-backup.log
+```
+
 ### 1. Token Stats 扫描
 | 项目 | 详情 |
 |------|------|
