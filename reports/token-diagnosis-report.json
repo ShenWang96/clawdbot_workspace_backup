@@ -1,0 +1,7 @@
+{
+  "timestamp": "2026-02-03T03:42:16.583646+00:00",
+  "session_diagnosis": {
+    "total_sessions": 12,
+    "sessions_with_tokens": 12,
+    "missing_token_data": [],
+    "models_found": 

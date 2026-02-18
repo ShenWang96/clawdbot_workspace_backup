@@ -1,0 +1,77 @@
+[
+  {
+    "xmlUrl": "https://feeds.feedburner.com/TechCrunch",
+    "category": "Tech",
+    "name": "TechCrunch"
+  },
+  {
+    "xmlUrl": "https://rsshub.app/xueqiu/today",
+    "category": "港股",
+    "name": "雪球今日"
+  },
+  {
+    "xmlUrl": "https://www.finet.hk/rss.xml",
+    "category": "港股",
+    "name": "财华社港股"
+  },
+  {
+    "xmlUrl": "https://cn.investing.com/rss/news.rss",
+    "category": "港股",
+    "name": "英为财情"
+  },
+  {
+    "xmlUrl": "https://rsshub.app/eastmoney/search/%E6%B8%AF%E8%82%A1",
+    "category": "港股",
+    "name": "东方财富港股"
+  },
+  {
+    "xmlUrl": "https://www.zhitongcaijing.com/feed",
+    "category": "港股",
+    "name": "智通财经"
+  },
+  {
+    "xmlUrl": "https://www.scmp.com/rss/318198/feed",
+    "category": "港股",
+    "name": "南华早报-港股"
+  },
+  {
+    "xmlUrl": "https://www.aastocks.com/en/rss/news.xml",
+    "category": "港股",
+    "name": "阿斯达克英文"
+  },
+  {
+    "xmlUrl": "https://www.reutersagency.com/feed/?taxonomy=markets",
+    "category": "Uncategorized",
+    "name": "www.reutersagency.com"
+  },
+  {
+    "xmlUrl": "https://feeds.feedburner.com/reuters/businessNews",
+    "category": "港股",
+    "name": "Reuters财经"
+  },
+  {
+    "xmlUrl": "https://feeds.bbci.co.uk/news/business/rss.xml",
+    "category": "港股",
+    "name": "BBC财经"
+  },
+  {
+    "xmlUrl": "https://www.marketwatch.com/rss/marketwatch",
+    "category": "港股",
+    "name": "MarketWatch"
+  },
+  {
+    "xmlUrl": "https://www.cls.cn/telegraph",
+    "category": "港股",
+    "name": "财联社电报"
+  },
+  {
+    "xmlUrl": "https://wallstreetcn.com/rss.xml",
+    "category": "港股",
+    "name": "华尔街见闻"
+  },
+  {
+    "xmlUrl": "https://www.hsi.com.hk/static/json/eng/rss/HSIIndexAnnouncement.rss",
+    "category": "港股",
+    "name": "恒生指数公告"
+  }
+]

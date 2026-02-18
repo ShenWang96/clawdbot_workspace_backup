@@ -1,0 +1,7033 @@
+{
+  "schema_version": "3.0",
+  "date": "2026-02-05",
+  "collection_time": "2026-02-05T08:53:43.980057",
+  "summary": {
+    "total_items": 140,
+    "total_sources": 11,
+    "successful_sources": 11,
+    "failed_sources": 0,
+    "categories": {
+      "political": {
+        "name": "政治",
+        "emoji": "🏛️",
+        "count": 15,
+        "sources": [
+          "BBC News"
+        ]
+      },
+      "economic": {
+        "name": "经济",
+        "emoji": "💰",
+        "count": 30,
+        "sources": [
+          "CNBC",
+          "Yahoo Finance"
+        ]
+      },
+      "tech": {
+        "name": "科技",
+        "emoji": "💻",
+        "count": 75,
+        "sources": [
+          "Hacker News",
+          "GitHub Trending",
+          "Dev.to",
+          "TechCrunch"
+        ]
+      },
+      "social": {
+        "name": "社交媒体",
+        "emoji": "📱",
+        "count": 20,
+        "sources": [
+          "B站热门"
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "id": "bbc_1_1770252803",
+      "title": "Fearing Russia will seize her town, war widow moves husband's grave to Kyiv",
+      "content": {
+        "summary": "Russia's gains on the battlefield have forced Natalia to rebury her husband in Kyiv.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bbc.com/news/articles/cvgr25e2lj5o?at_medium=RSS&at_campaign=rss",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:23.628506"
+      },
+      "category": "political",
+      "tags": [],
+      "meta": {
+        "source": "BBC News",
+        "platform": "bbc",
+        "category": "political",
+        "rank": 1,
+        "collection_time": "2026-02-05T08:53:23.628521"
+      }
+    },
+    {
+      "id": "bbc_2_1770252803",
+      "title": "Man sentenced to life in prison for 2024 attempt on Trump's life",
+      "content": {
+        "summary": "Prosecutors claimed that Routh, 59, remained \"totally unrepentant\" for the incident in Florida. ",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bbc.com/news/articles/cre2gjj3pxpo?at_medium=RSS&at_campaign=rss",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:23.628532"
+      },
+      "category": "political",
+      "tags": [],
+      "meta": {
+        "source": "BBC News",
+        "platform": "bbc",
+        "category": "political",
+        "rank": 2,
+        "collection_time": "2026-02-05T08:53:23.628533"
+      }
+    },
+    {
+      "id": "bbc_3_1770252803",
+      "title": "Gunmen reportedly kill dozens in Nigeria as US military deployment confirmed",
+      "content": {
+        "summary": "Shops and homes were torched in an attack on two villages in the western state of Kwara, a lawmaker says.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bbc.com/news/articles/ckgvllk3lx9o?at_medium=RSS&at_campaign=rss",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:23.628539"
+      },
+      "category": "political",
+      "tags": [],
+      "meta": {
+        "source": "BBC News",
+        "platform": "bbc",
+        "category": "political",
+        "rank": 3,
+        "collection_time": "2026-02-05T08:53:23.628540"
+      }
+    },
+    {
+      "id": "bbc_4_1770252803",
+      "title": "Melinda French Gates says ex-husband Bill has questions to answer over Epstein",
+      "content": {
+        "summary": "She said her ex-husband and others named in the Epstein files needed to answer whatever questions remain.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bbc.com/news/articles/cr4kyk9nv5lo?at_medium=RSS&at_campaign=rss",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:23.628544"
+      },
+      "category": "political",
+      "tags": [],
+      "meta": {
+        "source": "BBC News",
+        "platform": "bbc",
+        "category": "political",
+        "rank": 4,
+        "collection_time": "2026-02-05T08:53:23.628546"
+      }
+    },
+    {
+      "id": "bbc_5_1770252803",
+      "title": "Andrew and Epstein asked exotic dancer for 'sex acts,' legal letter claims",
+      "content": {
+        "summary": "Lawyers for the unnamed woman claim she was 'treated like a prostitute' at Jeffrey Epstein's home.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bbc.com/news/articles/ckgkjj5e28ko?at_medium=RSS&at_campaign=rss",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:23.628552"
+      },
+      "category": "political",
+      "tags": [],
+      "meta": {
+        "source": "BBC News",
+        "platform": "bbc",
+        "category": "political",
+        "rank": 5,
+        "collection_time": "2026-02-05T08:53:23.628554"
+      }
+    },
+    {
+      "id": "bbc_6_1770252803",
+      "title": "Son of Norway's crown princess holds back tears giving evidence at rape trial",
+      "content": {
+        "summary": "Marius Borg Høiby gives evidence after the first woman he is alleged to have raped told the court she believed she had been drugged.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bbc.com/news/articles/c23rdxjjp4po?at_medium=RSS&at_campaign=rss",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:23.628560"
+      },
+      "category": "political",
+      "tags": [],
+      "meta": {
+        "source": "BBC News",
+        "platform": "bbc",
+        "category": "political",
+        "rank": 6,
+        "collection_time": "2026-02-05T08:53:23.628561"
+      }
+    },
+    {
+      "id": "bbc_7_1770252803",
+      "title": "A global craze for Korean culture is making its humblest snacks unaffordable",
+      "content": {
+        "summary": "Black, crispy, often flat and square, dried seaweed is growing in popularity - but also in price. ",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bbc.com/news/articles/c4gv1lyvvedo?at_medium=RSS&at_campaign=rss",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:23.628579"
+      },
+      "category": "political",
+      "tags": [],
+      "meta": {
+        "source": "BBC News",
+        "platform": "bbc",
+        "category": "political",
+        "rank": 7,
+        "collection_time": "2026-02-05T08:53:23.628580"
+      }
+    },
+    {
+      "id": "bbc_8_1770252803",
+      "title": "Israeli strikes kill 20 in Gaza, hospitals say, after soldier wounded by gunfire",
+      "content": {
+        "summary": "Hospitals say several children were among those killed in strikes that Israel's military says it launched after a gun attack on its troops.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bbc.com/news/articles/cpqyg0g5r0po?at_medium=RSS&at_campaign=rss",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:23.628594"
+      },
+      "category": "political",
+      "tags": [],
+      "meta": {
+        "source": "BBC News",
+        "platform": "bbc",
+        "category": "political",
+        "rank": 8,
+        "collection_time": "2026-02-05T08:53:23.628596"
+      }
+    },
+    {
+      "id": "bbc_9_1770252803",
+      "title": "German activist jailed in Hungary for attacks at Nazi rally",
+      "content": {
+        "summary": "Supporters have questioned whether the 25-year-old, who identifies as non-binary, could receive a fair trial in Hungary.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bbc.com/news/articles/clyn7wkgkp0o?at_medium=RSS&at_campaign=rss",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:23.628602"
+      },
+      "category": "political",
+      "tags": [],
+      "meta": {
+        "source": "BBC News",
+        "platform": "bbc",
+        "category": "political",
+        "rank": 9,
+        "collection_time": "2026-02-05T08:53:23.628604"
+      }
+    },
+    {
+      "id": "bbc_10_1770252803",
+      "title": "Fears of new arms race as US-Russia nuclear weapons treaty due to expire",
+      "content": {
+        "summary": "The New Start treaty has limited the number of deployed strategic nuclear warheads for both countries.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bbc.com/news/articles/c4g31n4ey9go?at_medium=RSS&at_campaign=rss",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:23.628611"
+      },
+      "category": "political",
+      "tags": [],
+      "meta": {
+        "source": "BBC News",
+        "platform": "bbc",
+        "category": "political",
+        "rank": 10,
+        "collection_time": "2026-02-05T08:53:23.628612"
+      }
+    },
+    {
+      "id": "bbc_11_1770252803",
+      "title": "Boy, 14, stabbed art teacher because he had 'too much hatred', he tells police",
+      "content": {
+        "summary": "The teenager allegedly took a knife from his kitchen with the plan to attack the 60-year-old, the prosecutor says.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bbc.com/news/articles/cx2k82d78jno?at_medium=RSS&at_campaign=rss",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:23.628616"
+      },
+      "category": "political",
+      "tags": [],
+      "meta": {
+        "source": "BBC News",
+        "platform": "bbc",
+        "category": "political",
+        "rank": 11,
+        "collection_time": "2026-02-05T08:53:23.628617"
+      }
+    },
+    {
+      "id": "bbc_12_1770252803",
+      "title": "Greece blames smugglers over migrant deaths but early accounts have been questioned before",
+      "content": {
+        "summary": "Greek officials were quick to blame smugglers, but experience tells us to be wary of instant and unequivocal explanations.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bbc.com/news/articles/c4g51n1jv79o?at_medium=RSS&at_campaign=rss",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:23.628621"
+      },
+      "category": "political",
+      "tags": [],
+      "meta": {
+        "source": "BBC News",
+        "platform": "bbc",
+        "category": "political",
+        "rank": 12,
+        "collection_time": "2026-02-05T08:53:23.628623"
+      }
+    },
+    {
+      "id": "bbc_13_1770252803",
+      "title": "Leader of South Africa's second largest party to step down",
+      "content": {
+        "summary": "The surprise move may threaten the stability of the coalition government of which the DA is a key partner. ",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bbc.com/news/articles/c5yvneqg1xxo?at_medium=RSS&at_campaign=rss",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:23.628631"
+      },
+      "category": "political",
+      "tags": [],
+      "meta": {
+        "source": "BBC News",
+        "platform": "bbc",
+        "category": "political",
+        "rank": 13,
+        "collection_time": "2026-02-05T08:53:23.628632"
+      }
+    },
+    {
+      "id": "bbc_14_1770252803",
+      "title": "'Notorious Tanzanian drug trafficker' arrested during raid in Zambia",
+      "content": {
+        "summary": "Ahmed Muharram is among several suspects arrested in a major crackdown on marijuana trafficking.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bbc.com/news/articles/c3948e28e0yo?at_medium=RSS&at_campaign=rss",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:23.628635"
+      },
+      "category": "political",
+      "tags": [],
+      "meta": {
+        "source": "BBC News",
+        "platform": "bbc",
+        "category": "political",
+        "rank": 14,
+        "collection_time": "2026-02-05T08:53:23.628637"
+      }
+    },
+    {
+      "id": "bbc_15_1770252803",
+      "title": "Libyan prosecutors launch probe into killing of Gaddafi's son",
+      "content": {
+        "summary": "The 53-year-old, once widely seen as the second most powerful person in Libya, was killed by \"our unknown gunmen\".",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bbc.com/news/articles/cp37g4xgkxdo?at_medium=RSS&at_campaign=rss",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:23.628640"
+      },
+      "category": "political",
+      "tags": [],
+      "meta": {
+        "source": "BBC News",
+        "platform": "bbc",
+        "category": "political",
+        "rank": 15,
+        "collection_time": "2026-02-05T08:53:23.628642"
+      }
+    },
+    {
+      "id": "yahoo_finance_1_1770252807",
+      "title": "Why Gold Crashed So Fast (And What Retirees Should Do With GLD Now)",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://finance.yahoo.com/news/why-gold-crashed-fast-retirees-131645247.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:27.463715"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "Yahoo Finance",
+        "platform": "yahoo_finance",
+        "category": "economic",
+        "rank": 1,
+        "collection_time": "2026-02-05T08:53:27.463731"
+      }
+    },
+    {
+      "id": "yahoo_finance_2_1770252807",
+      "title": "Here’s What Lifted American International Group (AIG) in 2025",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://finance.yahoo.com/news/lifted-american-international-group-aig-131708858.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:27.463739"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "Yahoo Finance",
+        "platform": "yahoo_finance",
+        "category": "economic",
+        "rank": 2,
+        "collection_time": "2026-02-05T08:53:27.463741"
+      }
+    },
+    {
+      "id": "yahoo_finance_3_1770252807",
+      "title": "Dow Jones Futures: Palantir Jumps On Earnings; SpaceX, xAI To Merge",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-palantir-earnings-space-xai-merger/?src=A00220&yptr=yahoo",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:27.463750"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "Yahoo Finance",
+        "platform": "yahoo_finance",
+        "category": "economic",
+        "rank": 3,
+        "collection_time": "2026-02-05T08:53:27.463751"
+      }
+    },
+    {
+      "id": "yahoo_finance_4_1770252807",
+      "title": "Zoetis (ZTS) Traded Lower Due to Reduced 2026 Outlook",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://finance.yahoo.com/news/zoetis-zts-traded-lower-due-131447819.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:27.463759"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "Yahoo Finance",
+        "platform": "yahoo_finance",
+        "category": "economic",
+        "rank": 4,
+        "collection_time": "2026-02-05T08:53:27.463760"
+      }
+    },
+    {
+      "id": "yahoo_finance_5_1770252807",
+      "title": "Are Wall Street Analysts Predicting Oracle Stock Will Climb or Sink?",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://finance.yahoo.com/news/wall-street-analysts-predicting-oracle-131320817.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:27.463764"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "Yahoo Finance",
+        "platform": "yahoo_finance",
+        "category": "economic",
+        "rank": 5,
+        "collection_time": "2026-02-05T08:53:27.463766"
+      }
+    },
+    {
+      "id": "yahoo_finance_6_1770252807",
+      "title": "From Holding to Hedging: The \"Crypto Casino\" Trade Is Taking Over",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://finance.yahoo.com/news/holding-hedging-crypto-casino-trade-131600230.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:27.463772"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "Yahoo Finance",
+        "platform": "yahoo_finance",
+        "category": "economic",
+        "rank": 6,
+        "collection_time": "2026-02-05T08:53:27.463773"
+      }
+    },
+    {
+      "id": "yahoo_finance_7_1770252807",
+      "title": "Investor Concerns Impacted Labcorp (LH) in Q4",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://finance.yahoo.com/news/investor-concerns-impacted-labcorp-lh-131012534.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:27.463776"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "Yahoo Finance",
+        "platform": "yahoo_finance",
+        "category": "economic",
+        "rank": 7,
+        "collection_time": "2026-02-05T08:53:27.463778"
+      }
+    },
+    {
+      "id": "yahoo_finance_8_1770252807",
+      "title": "Sysco Corporation (SYY) Declined on Investor Worry About the Restaurant Macro Environment, Consumer Weakness",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://finance.yahoo.com/news/sysco-corporation-syy-declined-investor-130839167.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:27.463784"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "Yahoo Finance",
+        "platform": "yahoo_finance",
+        "category": "economic",
+        "rank": 8,
+        "collection_time": "2026-02-05T08:53:27.463785"
+      }
+    },
+    {
+      "id": "yahoo_finance_9_1770252807",
+      "title": "PayPal replaces CEO Chriss with HP's Lores",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://finance.yahoo.com/news/paypal-replaces-ceo-chriss-hps-131948726.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:27.463792"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "Yahoo Finance",
+        "platform": "yahoo_finance",
+        "category": "economic",
+        "rank": 9,
+        "collection_time": "2026-02-05T08:53:27.463793"
+      }
+    },
+    {
+      "id": "yahoo_finance_10_1770252807",
+      "title": "Diamond Hill Large Cap Fund Purchased Cooper Companies (COO) Betting on the Resilient Contact Lens Industry",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://finance.yahoo.com/news/diamond-hill-large-cap-fund-130534033.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:27.463802"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "Yahoo Finance",
+        "platform": "yahoo_finance",
+        "category": "economic",
+        "rank": 10,
+        "collection_time": "2026-02-05T08:53:27.463803"
+      }
+    },
+    {
+      "id": "yahoo_finance_11_1770252807",
+      "title": "Palantir’s stock price is back on the rise. This 1 factor may determine if shares keep going up",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://finance.yahoo.com/news/palantir-stock-price-back-rise-131500022.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:27.463807"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "Yahoo Finance",
+        "platform": "yahoo_finance",
+        "category": "economic",
+        "rank": 11,
+        "collection_time": "2026-02-05T08:53:27.463808"
+      }
+    },
+    {
+      "id": "yahoo_finance_12_1770252807",
+      "title": "Silver's Crash Is Getting Pretty Uncomfortable",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.investors.com/etfs-and-funds/sectors/silver-crash-is-getting-pretty-uncomfortable/?src=A00220&yptr=yahoo",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:27.463814"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "Yahoo Finance",
+        "platform": "yahoo_finance",
+        "category": "economic",
+        "rank": 12,
+        "collection_time": "2026-02-05T08:53:27.463816"
+      }
+    },
+    {
+      "id": "yahoo_finance_13_1770252807",
+      "title": "What Makes Wix.com (WIX) a Strong Long-Term Position?",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://finance.yahoo.com/news/makes-wix-com-wix-strong-130126596.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:27.463819"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "Yahoo Finance",
+        "platform": "yahoo_finance",
+        "category": "economic",
+        "rank": 13,
+        "collection_time": "2026-02-05T08:53:27.463820"
+      }
+    },
+    {
+      "id": "yahoo_finance_14_1770252807",
+      "title": "Does Dover Corp. (DOV) Have a Long Runway for Growth?",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://finance.yahoo.com/news/does-dover-corp-dov-long-130425933.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:27.463824"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "Yahoo Finance",
+        "platform": "yahoo_finance",
+        "category": "economic",
+        "rank": 14,
+        "collection_time": "2026-02-05T08:53:27.463825"
+      }
+    },
+    {
+      "id": "yahoo_finance_15_1770252807",
+      "title": "Here’s Why Diamond Hill Large Cap Fund Added Solventum (SOLV) to Its Portfolio",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://finance.yahoo.com/news/why-diamond-hill-large-cap-130004813.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:27.463829"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "Yahoo Finance",
+        "platform": "yahoo_finance",
+        "category": "economic",
+        "rank": 15,
+        "collection_time": "2026-02-05T08:53:27.463830"
+      }
+    },
+    {
+      "id": "cnbc_1_1770252808",
+      "title": "Google parent beats on revenue, projects significant AI spending increase ",
+      "content": {
+        "summary": "Alphabet beat on the top and bottom lines in its fourth-quarter earnings report, and said it expects to significantly increase spending on AI in 2026.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.cnbc.com/2026/02/04/alphabet-googl-q4-2025-earnings.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:28.644147"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "CNBC",
+        "platform": "cnbc",
+        "category": "economic",
+        "rank": 1,
+        "collection_time": "2026-02-05T08:53:28.644163"
+      }
+    },
+    {
+      "id": "cnbc_2_1770252808",
+      "title": "AMD falls 17%, posts worst day since 2017 as Lisa Su addresses guidance concerns",
+      "content": {
+        "summary": "The CEO said that the data center business has risen from the fourth to first quarter and demand for the company's CPUs is \"going gangbusters.\"",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.cnbc.com/2026/02/04/amd-lisa-su-ai-demand-guidance-earnings.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:28.644171"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "CNBC",
+        "platform": "cnbc",
+        "category": "economic",
+        "rank": 2,
+        "collection_time": "2026-02-05T08:53:28.644173"
+      }
+    },
+    {
+      "id": "cnbc_3_1770252808",
+      "title": "Software experiencing 'most exciting moment' as AI fears hammer the stocks",
+      "content": {
+        "summary": "Shares of software companies have been getting beaten up, and the selloff accelerated this week after Anthropic's latest unveiling.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.cnbc.com/2026/02/04/software-experiencing-most-exciting-moment-as-ai-fears-hammer-stocks.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:28.644180"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "CNBC",
+        "platform": "cnbc",
+        "category": "economic",
+        "rank": 3,
+        "collection_time": "2026-02-05T08:53:28.644181"
+      }
+    },
+    {
+      "id": "cnbc_4_1770252808",
+      "title": "Qualcomm stock sinks as memory shortage drags on forecast",
+      "content": {
+        "summary": "\"We're starting to see that memory is going to define the size of the mobile market,\" Qualcomm CEO Cristiano Amon said in an interview. ",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.cnbc.com/2026/02/04/qualcomm-qcom-q1-2026-earnings.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:28.644190"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "CNBC",
+        "platform": "cnbc",
+        "category": "economic",
+        "rank": 4,
+        "collection_time": "2026-02-05T08:53:28.644192"
+      }
+    },
+    {
+      "id": "cnbc_5_1770252808",
+      "title": "Trump says he'll stay out of Netflix, Paramount Skydance fight to take over WBD",
+      "content": {
+        "summary": "Trump in December said he would be involved in the review of whether Netflix should be allowed to buy parts of Warner Bros. Discover, as WBD leadership wants.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.cnbc.com/2026/02/04/trump-wbd-netflix-paramount-skydance.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:28.644198"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "CNBC",
+        "platform": "cnbc",
+        "category": "economic",
+        "rank": 5,
+        "collection_time": "2026-02-05T08:53:28.644199"
+      }
+    },
+    {
+      "id": "cnbc_6_1770252808",
+      "title": "Asia markets mostly fall, tracking Wall Street losses as tech sell-off continues",
+      "content": {
+        "summary": "In Asia, investors will keep an eye on tech and tech-related stocks in the region to watch for any spillover.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.cnbc.com/2026/02/05/asia-markets-live-nikkei-kospi-hang-seng-oil-saas.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:28.644204"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "CNBC",
+        "platform": "cnbc",
+        "category": "economic",
+        "rank": 6,
+        "collection_time": "2026-02-05T08:53:28.644206"
+      }
+    },
+    {
+      "id": "cnbc_7_1770252808",
+      "title": "Ciena returns to S&P 500 after getting booted 17 years ago",
+      "content": {
+        "summary": "Ciena is predicting the fastest growth since 2011 in the current fiscal year, thanks to its position in artificial intelligence. ",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.cnbc.com/2026/02/04/ciena-returns-to-sp-500-after-getting-booted-17-years-ago.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:28.644210"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "CNBC",
+        "platform": "cnbc",
+        "category": "economic",
+        "rank": 7,
+        "collection_time": "2026-02-05T08:53:28.644212"
+      }
+    },
+    {
+      "id": "cnbc_8_1770252808",
+      "title": "Snap shares rise on fourth-quarter earnings that beat on sales",
+      "content": {
+        "summary": "Snap on Wednesday released fourth-quarter earnings that beat on sales but missed on revenue guidance.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.cnbc.com/2026/02/04/snap-q4-earnings-report-2025.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:28.644277"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "CNBC",
+        "platform": "cnbc",
+        "category": "economic",
+        "rank": 8,
+        "collection_time": "2026-02-05T08:53:28.644279"
+      }
+    },
+    {
+      "id": "cnbc_9_1770252808",
+      "title": "Oil prices jump after Trump says Iran supreme leader 'should be very worried'",
+      "content": {
+        "summary": "President Donald Trump has threatened to launch military strikes on Iran if the Islamic Republic doesn't agree to a deal on its nuclear program. ",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.cnbc.com/2026/02/04/oil-prices-jump-on-report-us-iran-nuclear-talks-are-collapsing.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:28.644285"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "CNBC",
+        "platform": "cnbc",
+        "category": "economic",
+        "rank": 9,
+        "collection_time": "2026-02-05T08:53:28.644286"
+      }
+    },
+    {
+      "id": "cnbc_10_1770252808",
+      "title": "A surprising share of homeowners have high mortgage rates. Here's the breakdown",
+      "content": {
+        "summary": "About 20% of borrowers have mortgages with a rate over 6%.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.cnbc.com/2026/02/04/homeowner-mortgage-rates-breakdown.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:28.644292"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "CNBC",
+        "platform": "cnbc",
+        "category": "economic",
+        "rank": 10,
+        "collection_time": "2026-02-05T08:53:28.644293"
+      }
+    },
+    {
+      "id": "cnbc_11_1770252808",
+      "title": "China ramps up threats over Panama Canal ruling that handed Trump a major victory",
+      "content": {
+        "summary": "The Panama Canal has been thrust into the middle of a power struggle between the U.S. and China, the world's two largest economies. ",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.cnbc.com/2026/02/04/china-us-trump-panama-canal-court-ruling-ck-hutchison.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:28.644298"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "CNBC",
+        "platform": "cnbc",
+        "category": "economic",
+        "rank": 11,
+        "collection_time": "2026-02-05T08:53:28.644300"
+      }
+    },
+    {
+      "id": "cnbc_12_1770252808",
+      "title": "Hedge funds made $24 billion shorting software stocks so far in 2026 — and they are increasing the bet",
+      "content": {
+        "summary": "Hedge funds are increasing their short bets against software stocks, contributing to the brutal sell-off in the space so far this year, according to sources at two major funds on Wall Street.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.cnbc.com/2026/02/04/hedge-funds-made-24-billion-shorting-software-stocks-so-far-in-2026-and-they-are-increasing-the-bet.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:28.644304"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "CNBC",
+        "platform": "cnbc",
+        "category": "economic",
+        "rank": 12,
+        "collection_time": "2026-02-05T08:53:28.644305"
+      }
+    },
+    {
+      "id": "cnbc_13_1770252808",
+      "title": "Get the first look at the R2, Rivian's $45,000 SUV. CEO RJ Scaringe gave CNBC an early peek",
+      "content": {
+        "summary": "Rivian's R2 promises to be the vehicle that will do for Rivian what the Model Y did for Tesla. But first, the company has to launch it. ",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.cnbc.com/2026/02/04/rivian-r2-suv-rj-scaringe.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:28.644309"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "CNBC",
+        "platform": "cnbc",
+        "category": "economic",
+        "rank": 13,
+        "collection_time": "2026-02-05T08:53:28.644310"
+      }
+    },
+    {
+      "id": "cnbc_14_1770252808",
+      "title": "E.l.f. Beauty posts earnings beat, raises full-year guidance",
+      "content": {
+        "summary": "E.l.f. Beauty said its acquisition of Hailey Bieber's skin-care company, Rhode, contributed $128 million to the company's net third-quarter sales growth.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.cnbc.com/2026/02/04/elf-beauty-elf-q3-2026.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:28.644316"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "CNBC",
+        "platform": "cnbc",
+        "category": "economic",
+        "rank": 14,
+        "collection_time": "2026-02-05T08:53:28.644318"
+      }
+    },
+    {
+      "id": "cnbc_15_1770252808",
+      "title": "Amazon CEO Andy Jassy picks marketplace exec to be his new 'shadow' advisor",
+      "content": {
+        "summary": "Jassy was Jeff Bezos' shadow in the early 2000s before going on to lead Amazon Web Services.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.cnbc.com/2026/02/04/amazon-jassy-new-shadow-advisor-dharmesh-mehta.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:28.644324"
+      },
+      "category": "economic",
+      "tags": [],
+      "meta": {
+        "source": "CNBC",
+        "platform": "cnbc",
+        "category": "economic",
+        "rank": 15,
+        "collection_time": "2026-02-05T08:53:28.644325"
+      }
+    },
+    {
+      "id": "1147094660",
+      "title": "nanobot",
+      "content": {
+        "summary": "\"🐈 nanobot: The Ultra-Lightweight Clawdbot\"",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/HKUDS/nanobot",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 5556,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "HKUDS",
+        "avatar": "https://avatars.githubusercontent.com/u/118165258?v=4"
+      },
+      "time": {
+        "published": "2026-02-01T07:16:15Z",
+        "collected": "2026-02-05T08:53:30.533967"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 1,
+        "collection_time": "2026-02-05T08:53:30.533983"
+      }
+    },
+    {
+      "id": "1146738089",
+      "title": "nanoclaw",
+      "content": {
+        "summary": "My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/gavrielc/nanoclaw",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 4606,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "gavrielc",
+        "avatar": "https://avatars.githubusercontent.com/u/20087851?v=4"
+      },
+      "time": {
+        "published": "2026-01-31T15:47:22Z",
+        "collected": "2026-02-05T08:53:30.533999"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 2,
+        "collection_time": "2026-02-05T08:53:30.534001"
+      }
+    },
+    {
+      "id": "1145786318",
+      "title": "awesome-ai-research-writing",
+      "content": {
+        "summary": "Elevate your AI research writing, no more tedious polishing ✨ ",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/Leey21/awesome-ai-research-writing",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 3024,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Leey21",
+        "avatar": "https://avatars.githubusercontent.com/u/112166430?v=4"
+      },
+      "time": {
+        "published": "2026-01-30T07:59:30Z",
+        "collected": "2026-02-05T08:53:30.534012"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 3,
+        "collection_time": "2026-02-05T08:53:30.534014"
+      }
+    },
+    {
+      "id": "1147679251",
+      "title": "tirith",
+      "content": {
+        "summary": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/sheeki03/tirith",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 1202,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "sheeki03",
+        "avatar": "https://avatars.githubusercontent.com/u/36009418?v=4"
+      },
+      "time": {
+        "published": "2026-02-02T04:33:47Z",
+        "collected": "2026-02-05T08:53:30.534026"
+      },
+      "category": "tech",
+      "tags": [
+        "cli",
+        "devtools",
+        "homograph-attack",
+        "rust",
+        "security",
+        "shell",
+        "supply-chain-security",
+        "terminal",
+        "unicode",
+        "url-security"
+      ],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 4,
+        "collection_time": "2026-02-05T08:53:30.534027"
+      }
+    },
+    {
+      "id": "1146004684",
+      "title": "dash",
+      "content": {
+        "summary": "Self-learning data agent that grounds its answers in 6 layers of context. Inspired by OpenAI's in-house implementation.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/agno-agi/dash",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 1148,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "agno-agi",
+        "avatar": "https://avatars.githubusercontent.com/u/104874993?v=4"
+      },
+      "time": {
+        "published": "2026-01-30T13:54:17Z",
+        "collected": "2026-02-05T08:53:30.534035"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 5,
+        "collection_time": "2026-02-05T08:53:30.534037"
+      }
+    },
+    {
+      "id": "1145749657",
+      "title": "PaperBanana",
+      "content": {
+        "summary": "PaperBanana: Automating Academic Illustration For AI Scientists",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/dwzhu-pku/PaperBanana",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 1065,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "dwzhu-pku",
+        "avatar": "https://avatars.githubusercontent.com/u/52273452?v=4"
+      },
+      "time": {
+        "published": "2026-01-30T06:55:48Z",
+        "collected": "2026-02-05T08:53:30.534044"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 6,
+        "collection_time": "2026-02-05T08:53:30.534046"
+      }
+    },
+    {
+      "id": "1145977416",
+      "title": "OpenClawChineseTranslation",
+      "content": {
+        "summary": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/1186258278/OpenClawChineseTranslation",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 716,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "1186258278",
+        "avatar": "https://avatars.githubusercontent.com/u/42165041?v=4"
+      },
+      "time": {
+        "published": "2026-01-30T13:12:57Z",
+        "collected": "2026-02-05T08:53:30.534055"
+      },
+      "category": "tech",
+      "tags": [
+        "ai-assistant",
+        "chatbot",
+        "chinese",
+        "claude-ai",
+        "clawd",
+        "clawdbot",
+        "discord",
+        "lobster",
+        "localization",
+        "moltbot"
+      ],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 7,
+        "collection_time": "2026-02-05T08:53:30.534057"
+      }
+    },
+    {
+      "id": "1146028508",
+      "title": "Kimi-K2.5",
+      "content": {
+        "summary": "Moonshot's most powerful model",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/MoonshotAI/Kimi-K2.5",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 687,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "MoonshotAI",
+        "avatar": "https://avatars.githubusercontent.com/u/129152888?v=4"
+      },
+      "time": {
+        "published": "2026-01-30T14:29:16Z",
+        "collected": "2026-02-05T08:53:30.534088"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 8,
+        "collection_time": "2026-02-05T08:53:30.534090"
+      }
+    },
+    {
+      "id": "1146393894",
+      "title": "Step-3.5-Flash",
+      "content": {
+        "summary": "Fast, Sharp & Reliable Agentic Intelligence",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/stepfun-ai/Step-3.5-Flash",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 549,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "stepfun-ai",
+        "avatar": "https://avatars.githubusercontent.com/u/178004800?v=4"
+      },
+      "time": {
+        "published": "2026-01-31T02:57:03Z",
+        "collected": "2026-02-05T08:53:30.534098"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 9,
+        "collection_time": "2026-02-05T08:53:30.534099"
+      }
+    },
+    {
+      "id": "1147992203",
+      "title": "GLM-OCR",
+      "content": {
+        "summary": "GLM-OCR: Accurate ×  Fast × Comprehensive",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/zai-org/GLM-OCR",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 506,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "zai-org",
+        "avatar": "https://avatars.githubusercontent.com/u/223098841?v=4"
+      },
+      "time": {
+        "published": "2026-02-02T12:59:43Z",
+        "collected": "2026-02-05T08:53:30.534110"
+      },
+      "category": "tech",
+      "tags": [
+        "glm",
+        "image2text",
+        "ocr"
+      ],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 10,
+        "collection_time": "2026-02-05T08:53:30.534112"
+      }
+    },
+    {
+      "id": "1146981739",
+      "title": "MAHORAGA",
+      "content": {
+        "summary": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/ygwyg/MAHORAGA",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 437,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "ygwyg",
+        "avatar": "https://avatars.githubusercontent.com/u/167489839?v=4"
+      },
+      "time": {
+        "published": "2026-02-01T01:49:05Z",
+        "collected": "2026-02-05T08:53:30.534119"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 11,
+        "collection_time": "2026-02-05T08:53:30.534121"
+      }
+    },
+    {
+      "id": "1145741988",
+      "title": "Pretty-mermaid-skills",
+      "content": {
+        "summary": "To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/imxv/Pretty-mermaid-skills",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 405,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "imxv",
+        "avatar": "https://avatars.githubusercontent.com/u/116082154?v=4"
+      },
+      "time": {
+        "published": "2026-01-30T06:41:40Z",
+        "collected": "2026-02-05T08:53:30.534128"
+      },
+      "category": "tech",
+      "tags": [
+        "mermaid",
+        "skills"
+      ],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 12,
+        "collection_time": "2026-02-05T08:53:30.534129"
+      }
+    },
+    {
+      "id": "1147761848",
+      "title": "VibeSec-Skill",
+      "content": {
+        "summary": "This skill helps Claude write secure code and prevent common vulnerabilities.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/BehiSecc/VibeSec-Skill",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 321,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "BehiSecc",
+        "avatar": "https://avatars.githubusercontent.com/u/226653201?v=4"
+      },
+      "time": {
+        "published": "2026-02-02T07:10:42Z",
+        "collected": "2026-02-05T08:53:30.534138"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 13,
+        "collection_time": "2026-02-05T08:53:30.534139"
+      }
+    },
+    {
+      "id": "1146193768",
+      "title": "agent-device",
+      "content": {
+        "summary": "CLI to control iOS and Android devices for AI agents",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/callstackincubator/agent-device",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 311,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "callstackincubator",
+        "avatar": "https://avatars.githubusercontent.com/u/40356278?v=4"
+      },
+      "time": {
+        "published": "2026-01-30T18:41:54Z",
+        "collected": "2026-02-05T08:53:30.534146"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 14,
+        "collection_time": "2026-02-05T08:53:30.534147"
+      }
+    },
+    {
+      "id": "1146647912",
+      "title": "real-time-fund",
+      "content": {
+        "summary": "基金实时估值查看",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/hzm0321/real-time-fund",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 284,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "hzm0321",
+        "avatar": "https://avatars.githubusercontent.com/u/35420713?v=4"
+      },
+      "time": {
+        "published": "2026-01-31T12:55:02Z",
+        "collected": "2026-02-05T08:53:30.534154"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 15,
+        "collection_time": "2026-02-05T08:53:30.534155"
+      }
+    },
+    {
+      "id": "1146342470",
+      "title": "skills-npm",
+      "content": {
+        "summary": "Install agent skills from npm",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/antfu/skills-npm",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 266,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "antfu",
+        "avatar": "https://avatars.githubusercontent.com/u/11247099?v=4"
+      },
+      "time": {
+        "published": "2026-01-31T00:14:58Z",
+        "collected": "2026-02-05T08:53:30.534162"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 16,
+        "collection_time": "2026-02-05T08:53:30.534165"
+      }
+    },
+    {
+      "id": "1146426488",
+      "title": "BigBanana-AI-Director",
+      "content": {
+        "summary": "BigBanana AI Director是一个 AI 一站式短剧/漫剧平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 \"Script-to-Asset-to-Keyframe\" 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/shuyu-labs/BigBanana-AI-Director",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 262,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "shuyu-labs",
+        "avatar": "https://avatars.githubusercontent.com/u/257786265?v=4"
+      },
+      "time": {
+        "published": "2026-01-31T04:31:32Z",
+        "collected": "2026-02-05T08:53:30.534172"
+      },
+      "category": "tech",
+      "tags": [
+        "ai-comic-drama",
+        "ai-short-drama",
+        "ai-video"
+      ],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 17,
+        "collection_time": "2026-02-05T08:53:30.534173"
+      }
+    },
+    {
+      "id": "1148459032",
+      "title": "CodexDesktop-Rebuild",
+      "content": {
+        "summary": "Codex Desktop App - Cross-platform Rebuild",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/Haleclipse/CodexDesktop-Rebuild",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 262,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Haleclipse",
+        "avatar": "https://avatars.githubusercontent.com/u/15519695?v=4"
+      },
+      "time": {
+        "published": "2026-02-03T01:43:12Z",
+        "collected": "2026-02-05T08:53:30.534179"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 18,
+        "collection_time": "2026-02-05T08:53:30.534181"
+      }
+    },
+    {
+      "id": "1147148934",
+      "title": "openclaw-mini",
+      "content": {
+        "summary": "🦞 OpenClaw 核心架构的极简复现，涵盖 sessionKey 会话域、队列串行、工具化记忆检索、按需上下文加载、可扩展技能与主动心跳唤醒机制",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/voocel/openclaw-mini",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 241,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "voocel",
+        "avatar": "https://avatars.githubusercontent.com/u/21246707?v=4"
+      },
+      "time": {
+        "published": "2026-02-01T09:24:33Z",
+        "collected": "2026-02-05T08:53:30.534187"
+      },
+      "category": "tech",
+      "tags": [
+        "agent",
+        "ai",
+        "clawdbot",
+        "openclaw"
+      ],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 19,
+        "collection_time": "2026-02-05T08:53:30.534189"
+      }
+    },
+    {
+      "id": "1147642224",
+      "title": "xw-cli",
+      "content": {
+        "summary": "实现国产算力大模型零门槛部署，一键跑通 Qwen、GLM-4.7、Minimax-2.1、DeepSeek-OCR 等模型",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/TsingmaoAI/xw-cli",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 236,
+          "label": "Stars"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "TsingmaoAI",
+        "avatar": "https://avatars.githubusercontent.com/u/171784169?v=4"
+      },
+      "time": {
+        "published": "2026-02-02T03:07:20Z",
+        "collected": "2026-02-05T08:53:30.534201"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "GitHub Trending",
+        "platform": "github",
+        "category": "tech",
+        "rank": 20,
+        "collection_time": "2026-02-05T08:53:30.534203"
+      }
+    },
+    {
+      "id": "46886735",
+      "title": "Voxtral Transcribe 2",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://mistral.ai/news/voxtral-transcribe-2",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 703,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 173,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "meetpateltech",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:31.991834"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 1,
+        "collection_time": "2026-02-05T08:53:31.991845"
+      }
+    },
+    {
+      "id": "46893018",
+      "title": "As Rocks May Think",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://evjang.com/2026/02/04/rocks.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 42,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 16,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "modeless",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:32.192215"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 2,
+        "collection_time": "2026-02-05T08:53:32.192230"
+      }
+    },
+    {
+      "id": "46845845",
+      "title": "Claude Code: connect to a local model when your quota runs out",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 170,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 73,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "fugu2",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:32.392523"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 3,
+        "collection_time": "2026-02-05T08:53:32.392538"
+      }
+    },
+    {
+      "id": "46845239",
+      "title": "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://sqldef.github.io/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 36,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 8,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Palmik",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:32.593140"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 4,
+        "collection_time": "2026-02-05T08:53:32.593156"
+      }
+    },
+    {
+      "id": "46845642",
+      "title": "Remarkable Pro Colors",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 53,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 19,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "ffaser5gxlsll",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:32.793787"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 5,
+        "collection_time": "2026-02-05T08:53:32.793804"
+      }
+    },
+    {
+      "id": "46888441",
+      "title": "AI is killing B2B SaaS",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://nmn.gl/blog/ai-killing-b2b-saas",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 200,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 346,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "namanyayg",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:32.994269"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 6,
+        "collection_time": "2026-02-05T08:53:32.994279"
+      }
+    },
+    {
+      "id": "46889703",
+      "title": "Claude Code for Infrastructure",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.fluid.sh/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 133,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 111,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "aspectrr",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:33.194565"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 7,
+        "collection_time": "2026-02-05T08:53:33.194580"
+      }
+    },
+    {
+      "id": "46888795",
+      "title": "Building a 24-bit arcade CRT display adapter from scratch",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 113,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 31,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "evakhoury",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:33.394895"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 8,
+        "collection_time": "2026-02-05T08:53:33.394910"
+      }
+    },
+    {
+      "id": "46887564",
+      "title": "Microsoft's Copilot chatbot is running into problems",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 97,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 133,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "fortran77",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:33.601300"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 9,
+        "collection_time": "2026-02-05T08:53:33.601315"
+      }
+    },
+    {
+      "id": "46877278",
+      "title": "Tractor",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://incoherency.co.uk/blog/stories/tractor.html",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 140,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 47,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "surprisetalk",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:33.802345"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 10,
+        "collection_time": "2026-02-05T08:53:33.802361"
+      }
+    },
+    {
+      "id": "46891860",
+      "title": "A real-world benchmark for AI code review",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 33,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 14,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "benocodes",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:34.006883"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 11,
+        "collection_time": "2026-02-05T08:53:34.006895"
+      }
+    },
+    {
+      "id": "46886265",
+      "title": "Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://arxiv.org/abs/2602.00294",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 146,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 82,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "fheinsen",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:34.207919"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 12,
+        "collection_time": "2026-02-05T08:53:34.207934"
+      }
+    },
+    {
+      "id": "46872465",
+      "title": "A sane but bull case on Clawdbot / OpenClaw",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://brandon.wang/2026/clawdbot",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 239,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 386,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "brdd",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:34.408336"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 13,
+        "collection_time": "2026-02-05T08:53:34.408351"
+      }
+    },
+    {
+      "id": "46888142",
+      "title": "RS-SDK: Drive RuneScape with Claude Code",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://github.com/MaxBittker/rs-sdk",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 94,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 36,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "evakhoury",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:34.610246"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 14,
+        "collection_time": "2026-02-05T08:53:34.610261"
+      }
+    },
+    {
+      "id": "46891827",
+      "title": "Show HN: Morph – Videos of AI testing your PR, embedded in GitHub",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://morphllm.com/products/glance",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 16,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 8,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "bhaktatejas922",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:34.811791"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 15,
+        "collection_time": "2026-02-05T08:53:34.811805"
+      }
+    },
+    {
+      "id": "46887326",
+      "title": "Arcan-A12: Weaving a Different Web",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.divergent-desktop.org/blog/2026/01/26/a12web/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 47,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 14,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "ingenieroariel",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:35.012901"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 16,
+        "collection_time": "2026-02-05T08:53:35.012917"
+      }
+    },
+    {
+      "id": "46891794",
+      "title": "Spotlighting the World Factbook as We Bid a Fond Farewell",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 72,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 58,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "mxfh",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:35.213174"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 17,
+        "collection_time": "2026-02-05T08:53:35.213190"
+      }
+    },
+    {
+      "id": "46844410",
+      "title": "Coding Agent VMs on NixOS with Microvm.nix",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 81,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 37,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "secure",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:35.415185"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 18,
+        "collection_time": "2026-02-05T08:53:35.415200"
+      }
+    },
+    {
+      "id": "46845617",
+      "title": "Data Poems",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dr.eamer.dev/datavis/poems/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 18,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": 4,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "putzdown",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:35.616034"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 19,
+        "collection_time": "2026-02-05T08:53:35.616050"
+      }
+    },
+    {
+      "id": "46888331",
+      "title": "Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person)",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.runconverge.com/careers/product-engineer",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": 1,
+          "label": "Points"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "thomashlvt",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:35.818204"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "Hacker News",
+        "platform": "hackernews",
+        "category": "tech",
+        "rank": 20,
+        "collection_time": "2026-02-05T08:53:35.818219"
+      }
+    },
+    {
+      "id": "techcrunch_1_1770252816",
+      "title": "Sam Altman got exceptionally testy over Claude Super Bowl ads",
+      "content": {
+        "summary": "He posted a novella-sized rant that devolved into to calling his rival \"dishonest\" and \"authoritarian.\"",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:36.883041"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "TechCrunch",
+        "platform": "techcrunch",
+        "category": "tech",
+        "rank": 1,
+        "collection_time": "2026-02-05T08:53:36.883050"
+      }
+    },
+    {
+      "id": "techcrunch_2_1770252816",
+      "title": "As it preps Specs for the masses, Snap’s Q4 shows revenue growth but fewer daily users",
+      "content": {
+        "summary": "The company is engaged in a strategy to diversify its revenue sources as it heads into the new year. ",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://techcrunch.com/2026/02/04/as-it-preps-specs-for-the-masses-snaps-q4-shows-revenue-growth-but-fewer-daily-users/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:36.883059"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "TechCrunch",
+        "platform": "techcrunch",
+        "category": "tech",
+        "rank": 2,
+        "collection_time": "2026-02-05T08:53:36.883061"
+      }
+    },
+    {
+      "id": "techcrunch_3_1770252816",
+      "title": "Mundi Ventures closes on €750M for Kembara, its largest deep tech and climate fund",
+      "content": {
+        "summary": "Spain-based deeptech and climate megafund Kembara has just completed a €750 million first close toward its €1 billion target. ",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://techcrunch.com/2026/02/04/mundi-ventures-closes-on-e750m-for-kembara-its-largest-deep-tech-and-climate-fund/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:36.883066"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "TechCrunch",
+        "platform": "techcrunch",
+        "category": "tech",
+        "rank": 3,
+        "collection_time": "2026-02-05T08:53:36.883088"
+      }
+    },
+    {
+      "id": "techcrunch_4_1770252816",
+      "title": "Stripe alumni raise €30M Series A for Duna, backed by Stripe and Adyen execs",
+      "content": {
+        "summary": "Having raised a €30 million Series A round led by CapitalG, business identity verification startup Duna is now among the most well-capitalized European startups founded by Stripe alumni.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://techcrunch.com/2026/02/04/stripe-alumni-raise-e30m-series-a-for-duna-backed-by-stripe-and-adyen-execs/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:36.883095"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "TechCrunch",
+        "platform": "techcrunch",
+        "category": "tech",
+        "rank": 4,
+        "collection_time": "2026-02-05T08:53:36.883098"
+      }
+    },
+    {
+      "id": "techcrunch_5_1770252816",
+      "title": "Alphabet won’t talk about the Google-Apple AI deal, even to investors",
+      "content": {
+        "summary": "Alphabet CEO skipped an analyst's question about Apple on the company's earnings call. ",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:36.883105"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "TechCrunch",
+        "platform": "techcrunch",
+        "category": "tech",
+        "rank": 5,
+        "collection_time": "2026-02-05T08:53:36.883106"
+      }
+    },
+    {
+      "id": "techcrunch_6_1770252816",
+      "title": "Google’s Gemini app has surpassed 750M monthly active users",
+      "content": {
+        "summary": "Google revealed a significant milestone for its Gemini app, announcing over 750 million monthly active users as it competes with ChatGPT and Meta AI.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:36.883116"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "TechCrunch",
+        "platform": "techcrunch",
+        "category": "tech",
+        "rank": 6,
+        "collection_time": "2026-02-05T08:53:36.883118"
+      }
+    },
+    {
+      "id": "techcrunch_7_1770252816",
+      "title": "The Wayback Machine debuts a new plug-in designed to fix the internet’s broken links problem",
+      "content": {
+        "summary": "Should a linked web page go offline, the new feature will then redirect readers to the archived versions, so that there is no drop in service. The tool also archives a user's own posts, helping to ensure their longevity.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://techcrunch.com/2026/02/04/the-wayback-machine-debuts-a-new-plugin-designed-to-fix-the-internets-broken-links-problem/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:36.883125"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "TechCrunch",
+        "platform": "techcrunch",
+        "category": "tech",
+        "rank": 7,
+        "collection_time": "2026-02-05T08:53:36.883127"
+      }
+    },
+    {
+      "id": "techcrunch_8_1770252816",
+      "title": "Elon Musk’s SpaceX company town is getting a police department",
+      "content": {
+        "summary": "The new department will have up to eight police officers and could be up and running in a few months. ",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://techcrunch.com/2026/02/04/elon-musks-spacex-company-town-is-getting-a-police-department/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:36.883136"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "TechCrunch",
+        "platform": "techcrunch",
+        "category": "tech",
+        "rank": 8,
+        "collection_time": "2026-02-05T08:53:36.883138"
+      }
+    },
+    {
+      "id": "techcrunch_9_1770252816",
+      "title": "Meet Gizmo: A TikTok for interactive, vibe-coded mini apps",
+      "content": {
+        "summary": "Gizmo's app is like a TikTok for vibe-coded mini apps... and it's a lot of fun. ",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:36.883142"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "TechCrunch",
+        "platform": "techcrunch",
+        "category": "tech",
+        "rank": 9,
+        "collection_time": "2026-02-05T08:53:36.883144"
+      }
+    },
+    {
+      "id": "techcrunch_10_1770252816",
+      "title": "AI SRE Resolve AI confirms $125M raise, unicorn valuation",
+      "content": {
+        "summary": "The two-year-old startup confirms that it closed a Series A led by Lightspeed at $1 billion valuation.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://techcrunch.com/2026/02/04/ai-sre-resolve-ai-confirms-125m-raise-unicorn-valuation/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:36.883149"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "TechCrunch",
+        "platform": "techcrunch",
+        "category": "tech",
+        "rank": 10,
+        "collection_time": "2026-02-05T08:53:36.883150"
+      }
+    },
+    {
+      "id": "techcrunch_11_1770252816",
+      "title": "Amazon to begin testing AI tools for film and TV production next month",
+      "content": {
+        "summary": "Amazon MGM Studios will reportedly begin a closed beta program in March to test its AI tools to help with film and TV production. ",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://techcrunch.com/2026/02/04/amazon-to-begin-testing-ai-tools-for-film-and-tv-production-next-month/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:36.883157"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "TechCrunch",
+        "platform": "techcrunch",
+        "category": "tech",
+        "rank": 11,
+        "collection_time": "2026-02-05T08:53:36.883158"
+      }
+    },
+    {
+      "id": "techcrunch_12_1770252816",
+      "title": "A16z just raised $1.7B for AI infrastructure. Here’s where it’s going.",
+      "content": {
+        "summary": "Andreessen Horowitz just raised&#160;a whopping&#160;⁠new&#160;$15 billion&#160;in funding⁠.&#160;And a&#160;$1.7 billion&#160;chunk&#160;of that is going to&#160;its&#160;⁠infrastructure&#160;team⁠,&#160;the one responsible for some of its biggest, most prominent&#160;AI investments including&#160;Black Forrest Labs, Cursor, OpenAI,&#160;⁠ElevenLabs⁠, Ideogram,&#160;⁠Fal⁠&#160;and dozens of others.&#160;&#160; A16z&#160;⁠general partner&#160;with the infra team Jennifer Li⁠&#160;(who oversees s",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:36.883225"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "TechCrunch",
+        "platform": "techcrunch",
+        "category": "tech",
+        "rank": 12,
+        "collection_time": "2026-02-05T08:53:36.883228"
+      }
+    },
+    {
+      "id": "techcrunch_13_1770252816",
+      "title": "Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout",
+      "content": {
+        "summary": "Tinder is testing AI recommendations and insight from your Camera Roll for better matches. ",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:36.883235"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "TechCrunch",
+        "platform": "techcrunch",
+        "category": "tech",
+        "rank": 13,
+        "collection_time": "2026-02-05T08:53:36.883237"
+      }
+    },
+    {
+      "id": "techcrunch_14_1770252816",
+      "title": "Lunar Energy raises $232M to deploy home batteries that prop up the grid",
+      "content": {
+        "summary": "The startup has raised more than $500 million, to date, from investors to build a massive, distributed power plant supported by residential batteries.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://techcrunch.com/2026/02/04/lunar-energy-raises-232m-to-deploy-home-batteries-that-prop-up-the-grid/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:36.883240"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "TechCrunch",
+        "platform": "techcrunch",
+        "category": "tech",
+        "rank": 14,
+        "collection_time": "2026-02-05T08:53:36.883242"
+      }
+    },
+    {
+      "id": "techcrunch_15_1770252816",
+      "title": "Hackers publish personal information stolen during Harvard, UPenn data breaches",
+      "content": {
+        "summary": "The prolific cybercrime group ShinyHunters took responsibility for hacking Harvard and the University of Pennsylvania, and published the stolen data on its extortion website.",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://techcrunch.com/2026/02/04/hackers-publish-personal-information-stolen-during-harvard-upenn-data-breaches/",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": null,
+          "comments": null,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": null,
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:36.883245"
+      },
+      "category": "tech",
+      "tags": [],
+      "meta": {
+        "source": "TechCrunch",
+        "platform": "techcrunch",
+        "category": "tech",
+        "rank": 15,
+        "collection_time": "2026-02-05T08:53:36.883247"
+      }
+    },
+    {
+      "id": "3205431",
+      "title": "Is Learning CSS a Waste of Time in 2026?",
+      "content": {
+        "summary": "With modern frameworks, component libraries, and utility-first CSS, it’s a fair question.  Most...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/sylwia-lask/is-learning-css-a-waste-of-time-in-2026-nj3",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 156,
+          "comments": 189,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Sylwia Laskowska",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3535771%2Fe22860d5-274b-43c9-819b-56b162e5bd5a.jpeg"
+      },
+      "time": {
+        "published": "2026-01-29T11:07:18Z",
+        "collected": "2026-02-05T08:53:38.162915"
+      },
+      "category": "tech",
+      "tags": [
+        "css",
+        "webdev",
+        "frontend",
+        "a11y"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 1,
+        "collection_time": "2026-02-05T08:53:38.162931"
+      }
+    },
+    {
+      "id": "3216141",
+      "title": "Should Junior Developers Still Learn JavaScript the Hard Way?",
+      "content": {
+        "summary": "Let’s define “the hard way” first.  Not:   Watching a 6-hour tutorial at 1.5× speed Copy-pasting code...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 142,
+          "comments": 115,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Art light",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3623264%2F9153b8c6-8ac5-4b16-8507-01ca84f8d020.jpeg"
+      },
+      "time": {
+        "published": "2026-02-01T08:16:04Z",
+        "collected": "2026-02-05T08:53:38.162943"
+      },
+      "category": "tech",
+      "tags": [
+        "programming",
+        "webdev",
+        "javascript",
+        "beginners"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 2,
+        "collection_time": "2026-02-05T08:53:38.162945"
+      }
+    },
+    {
+      "id": "3207153",
+      "title": "The Internet’s Addiction to Being Contrary",
+      "content": {
+        "summary": "Lately, I've noticed that many online discussions don't really feel like discussions anymore. Instead...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/richardpascoe/the-internets-addiction-to-being-contrary-42ni",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 104,
+          "comments": 116,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Richard Pascoe",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3689026%2F3359cbba-3c0a-4759-9889-0b30af7894cd.jpeg"
+      },
+      "time": {
+        "published": "2026-01-29T17:00:22Z",
+        "collected": "2026-02-05T08:53:38.162953"
+      },
+      "category": "tech",
+      "tags": [
+        "discuss",
+        "community"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 3,
+        "collection_time": "2026-02-05T08:53:38.162954"
+      }
+    },
+    {
+      "id": "3208863",
+      "title": "Unpopular Opinion: I stopped coding on weekends and my career got better.",
+      "content": {
+        "summary": "For years, I lived with a constant, low-level hum of guilt. ​You know the feeling. It’s Saturday...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/the_nortern_dev/unpopular-opinion-i-stopped-coding-on-weekends-and-my-career-got-better-3el",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 93,
+          "comments": 92,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "NorthernDev",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3630167%2F2e206d7e-04d3-484b-8a73-1f98d17a0e1a.png"
+      },
+      "time": {
+        "published": "2026-01-29T23:00:28Z",
+        "collected": "2026-02-05T08:53:38.162961"
+      },
+      "category": "tech",
+      "tags": [
+        "career",
+        "discuss",
+        "productivity",
+        "mentalhealth"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 4,
+        "collection_time": "2026-02-05T08:53:38.162962"
+      }
+    },
+    {
+      "id": "3204272",
+      "title": "Online Community Demise and why DEV is Different (at least a little bit, I hope)",
+      "content": {
+        "summary": "I recently claimed that we might look back on the 2010s decade and early 2020 years as a golden age...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/ingosteinke/online-community-demise-and-why-dev-is-different-16km",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 49,
+          "comments": 35,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Ingo Steinke, web developer",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F233697%2Fc55514eb-8ec3-47cf-8f65-5be0ef2b1849.jpg"
+      },
+      "time": {
+        "published": "2026-02-02T12:47:08Z",
+        "collected": "2026-02-05T08:53:38.162972"
+      },
+      "category": "tech",
+      "tags": [
+        "watercooler"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 5,
+        "collection_time": "2026-02-05T08:53:38.162973"
+      }
+    },
+    {
+      "id": "3197052",
+      "title": "Why I Sometimes Leave Tech Events Feeling Smaller",
+      "content": {
+        "summary": "I haven’t attended many developer events. The few I have attended left me with a strange aftertaste....",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/itsugo/why-i-sometimes-leave-tech-events-feeling-smaller-3p55",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 44,
+          "comments": 48,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Aryan Choudhary",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2353063%2F680547a0-c940-4906-bea5-d5fef2633782.png"
+      },
+      "time": {
+        "published": "2026-01-29T17:40:01Z",
+        "collected": "2026-02-05T08:53:38.162980"
+      },
+      "category": "tech",
+      "tags": [
+        "career",
+        "learning",
+        "community",
+        "developers"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 6,
+        "collection_time": "2026-02-05T08:53:38.162982"
+      }
+    },
+    {
+      "id": "3230200",
+      "title": "Moltbook Is Not an AI Society",
+      "content": {
+        "summary": "Moltbook has been circulating as an \"AI-only social network\" where autonomous agents post, argue,...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/richardpascoe/moltbook-is-not-an-ai-society-4h6d",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 35,
+          "comments": 19,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Richard Pascoe",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3689026%2F3359cbba-3c0a-4759-9889-0b30af7894cd.jpeg"
+      },
+      "time": {
+        "published": "2026-02-04T08:45:13Z",
+        "collected": "2026-02-05T08:53:38.162989"
+      },
+      "category": "tech",
+      "tags": [
+        "discuss",
+        "ai"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 7,
+        "collection_time": "2026-02-05T08:53:38.162991"
+      }
+    },
+    {
+      "id": "3208219",
+      "title": "GitHub Copilot CLI Challenge Badges Are Here + 28 Chances to Win a Prize!",
+      "content": {
+        "summary": "First of all, this is such a crazy cover image. I love/hate it.   Second of all, and more...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/devteam/github-copilot-cli-challenge-badges-are-here-28-chances-to-win-a-prize-3c42",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 45,
+          "comments": 6,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Jess Lee",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F264%2Fb75f6edf-df7b-406e-a56b-43facafb352c.jpg"
+      },
+      "time": {
+        "published": "2026-01-29T16:14:07Z",
+        "collected": "2026-02-05T08:53:38.163004"
+      },
+      "category": "tech",
+      "tags": [
+        "devchallenge",
+        "githubchallenge"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 8,
+        "collection_time": "2026-02-05T08:53:38.163006"
+      }
+    },
+    {
+      "id": "3222247",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "content": {
+        "summary": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-bao",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 34,
+          "comments": 12,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Jess Lee",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F264%2Fb75f6edf-df7b-406e-a56b-43facafb352c.jpg"
+      },
+      "time": {
+        "published": "2026-02-03T15:39:39Z",
+        "collected": "2026-02-05T08:53:38.163013"
+      },
+      "category": "tech",
+      "tags": [
+        "top7",
+        "discuss"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 9,
+        "collection_time": "2026-02-05T08:53:38.163014"
+      }
+    },
+    {
+      "id": "3220101",
+      "title": "Setting Up OpenClaw on exe.dev with Discord",
+      "content": {
+        "summary": "I'll be honest—when I first heard about Clawdbot (now rebranded as OpenClaw) a few weeks back, I had...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/bdougieyo/setting-up-openclaw-on-exedev-with-discord-27n",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 22,
+          "comments": 2,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Brian Douglas",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F19970%2F6dc0f11e-a4da-4762-aed8-11f70143d31b.jpeg"
+      },
+      "time": {
+        "published": "2026-02-02T06:11:52Z",
+        "collected": "2026-02-05T08:53:38.163021"
+      },
+      "category": "tech",
+      "tags": [
+        "ai",
+        "llm",
+        "coding"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 10,
+        "collection_time": "2026-02-05T08:53:38.163022"
+      }
+    },
+    {
+      "id": "3144034",
+      "title": "What was your win this week?",
+      "content": {
+        "summary": "👋👋👋👋  Looking back on your week -- what was something you're proud of?  All wins count -- big or...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/devteam/what-was-your-win-this-week-1916",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 39,
+          "comments": 78,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Jess Lee",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F264%2Fb75f6edf-df7b-406e-a56b-43facafb352c.jpg"
+      },
+      "time": {
+        "published": "2026-01-30T13:00:00Z",
+        "collected": "2026-02-05T08:53:38.163031"
+      },
+      "category": "tech",
+      "tags": [
+        "weeklyretro",
+        "discuss"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 11,
+        "collection_time": "2026-02-05T08:53:38.163033"
+      }
+    },
+    {
+      "id": "3210948",
+      "title": "The Compiler Never Used Sarcasm: Why AI Feels Unsafe to the Neurodivergent Coder",
+      "content": {
+        "summary": "I have been writing code for 45 years. I started when \"memory\" was something you counted in bytes,...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/btarbox/the-compiler-never-used-sarcasm-why-ai-feels-unsafe-to-the-neurodivergent-coder-30i3",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 32,
+          "comments": 2,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Brian Tarbox",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F411336%2F632c153c-4f37-4a2d-bf76-9a13870a8249.jpg"
+      },
+      "time": {
+        "published": "2026-02-02T14:20:01Z",
+        "collected": "2026-02-05T08:53:38.163041"
+      },
+      "category": "tech",
+      "tags": [
+        "ai",
+        "discuss",
+        "llm",
+        "programming"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 12,
+        "collection_time": "2026-02-05T08:53:38.163042"
+      }
+    },
+    {
+      "id": "3227855",
+      "title": "Why do you write?",
+      "content": {
+        "summary": "A recognition   There is a line by @sylwia-lask that stayed with me when I first read it....",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/itsugo/why-do-you-write-5bkf",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 40,
+          "comments": 21,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Aryan Choudhary",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2353063%2F680547a0-c940-4906-bea5-d5fef2633782.png"
+      },
+      "time": {
+        "published": "2026-02-04T05:41:16Z",
+        "collected": "2026-02-05T08:53:38.163048"
+      },
+      "category": "tech",
+      "tags": [
+        "discuss",
+        "programming",
+        "learning",
+        "mentalhealth"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 13,
+        "collection_time": "2026-02-05T08:53:38.163049"
+      }
+    },
+    {
+      "id": "3226841",
+      "title": "I Vibe Coded a Multiplayer ASL Game using MQTT! 🌐",
+      "content": {
+        "summary": "Last year (2 months ago), I created a game using p5.js and ml5.js that uses Machine Learning to...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/francistrdev/i-vibe-coded-a-multiplayer-asl-game-using-mqtt-480",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 32,
+          "comments": 7,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "👾 FrancisTRDev 👾",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3711376%2F746cce1f-2c09-40fc-9742-387af1855b6d.gif"
+      },
+      "time": {
+        "published": "2026-02-03T18:25:56Z",
+        "collected": "2026-02-05T08:53:38.163061"
+      },
+      "category": "tech",
+      "tags": [
+        "mqtt",
+        "webdev",
+        "discuss",
+        "showdev"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 14,
+        "collection_time": "2026-02-05T08:53:38.163062"
+      }
+    },
+    {
+      "id": "3211229",
+      "title": "🔬 Copilot Autopsy: AI-Powered Repository Forensics",
+      "content": {
+        "summary": "This is a submission for the GitHub Copilot CLI Challenge           What I Built   Copilot Autopsy is...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/xdarwin13/copilot-autopsy-ai-powered-repository-forensics-4ehf",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 10,
+          "comments": 1,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Darwin David Perez Muñoz",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3740742%2Fa3037434-fc48-44f7-b374-46aa5bf255d5.jpeg"
+      },
+      "time": {
+        "published": "2026-01-30T17:49:09Z",
+        "collected": "2026-02-05T08:53:38.163093"
+      },
+      "category": "tech",
+      "tags": [
+        "githubchallenge",
+        "cli",
+        "githubcopilot",
+        "devchallenge"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 15,
+        "collection_time": "2026-02-05T08:53:38.163095"
+      }
+    },
+    {
+      "id": "3203785",
+      "title": "The Valley of Code: A Learning Resource",
+      "content": {
+        "summary": "I first came across Flavio Copes a few years ago while searching for clear, practical guides on web...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/richardpascoe/the-valley-of-code-a-learning-resource-303o",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 41,
+          "comments": 12,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Richard Pascoe",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3689026%2F3359cbba-3c0a-4759-9889-0b30af7894cd.jpeg"
+      },
+      "time": {
+        "published": "2026-01-29T10:00:08Z",
+        "collected": "2026-02-05T08:53:38.163107"
+      },
+      "category": "tech",
+      "tags": [
+        "community",
+        "learning",
+        "programming",
+        "webdev"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 16,
+        "collection_time": "2026-02-05T08:53:38.163109"
+      }
+    },
+    {
+      "id": "3228463",
+      "title": "Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems",
+      "content": {
+        "summary": "The web platform is way more powerful than most developers realize — and every year it quietly gains...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 43,
+          "comments": 19,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Sylwia Laskowska",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3535771%2Fe22860d5-274b-43c9-819b-56b162e5bd5a.jpeg"
+      },
+      "time": {
+        "published": "2026-02-04T11:05:13Z",
+        "collected": "2026-02-05T08:53:38.163118"
+      },
+      "category": "tech",
+      "tags": [
+        "webdev",
+        "frontend",
+        "javascript"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 17,
+        "collection_time": "2026-02-05T08:53:38.163124"
+      }
+    },
+    {
+      "id": "3206289",
+      "title": "Is the language war even real?",
+      "content": {
+        "summary": "Every few years, the tech world seems to restart the same argument. Java vs C#. Python vs JavaScript....",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/ujja/is-the-language-war-even-real-13n0",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 35,
+          "comments": 20,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "ujja",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F439943%2F774d42c6-75e1-4247-8688-30020ce8f40a.png"
+      },
+      "time": {
+        "published": "2026-01-29T01:53:33Z",
+        "collected": "2026-02-05T08:53:38.163135"
+      },
+      "category": "tech",
+      "tags": [
+        "programming",
+        "discuss",
+        "coding",
+        "software"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 18,
+        "collection_time": "2026-02-05T08:53:38.163137"
+      }
+    },
+    {
+      "id": "3204123",
+      "title": "Above the API: What Developers Contribute When AI Can Code",
+      "content": {
+        "summary": "An AI researcher told me something that won't leave my head:   \"If a human cannot outperform or...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/dannwaneri/above-the-api-what-developers-contribute-when-ai-can-code-5025",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 35,
+          "comments": 25,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Daniel Nwaneri",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3606168%2Fa6853c87-4daa-4bea-87e8-d1bd0d8a59d7.jpg"
+      },
+      "time": {
+        "published": "2026-02-03T04:48:49Z",
+        "collected": "2026-02-05T08:53:38.163144"
+      },
+      "category": "tech",
+      "tags": [
+        "ai",
+        "webdev",
+        "career",
+        "discuss"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 19,
+        "collection_time": "2026-02-05T08:53:38.163146"
+      }
+    },
+    {
+      "id": "3210230",
+      "title": "I'm Passing on the GitHub CoPilot CLI Challenge",
+      "content": {
+        "summary": "I'm an advocate of AI - both small and large language models. I'm also an advocate of dev.to, which I...",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": null,
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://dev.to/ben-santora/im-passing-on-thegithub-copilot-cli-challenge-38fo",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "热度"
+        },
+        "views": null,
+        "interactions": {
+          "likes": 24,
+          "comments": 19,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "Ben Santora ",
+        "avatar": "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3688514%2F15433659-ac91-467c-a27f-2bf4b7d7f409.jpg"
+      },
+      "time": {
+        "published": "2026-01-30T10:34:52Z",
+        "collected": "2026-02-05T08:53:38.163152"
+      },
+      "category": "tech",
+      "tags": [
+        "discuss",
+        "privacy",
+        "linux"
+      ],
+      "meta": {
+        "source": "Dev.to",
+        "platform": "devto",
+        "category": "tech",
+        "rank": 20,
+        "collection_time": "2026-02-05T08:53:38.163154"
+      }
+    },
+    {
+      "id": "116006697701745",
+      "title": "【牌子】当世界过分“诚实”，我们要如何保持好奇与勇气【B站AI创作大赛-开放赛道】",
+      "content": {
+        "summary": "百万播放",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": "http://i0.hdslb.com/bfs/archive/0e4958db1618d69d05cbf269dd7e9dd615f5821d.jpg",
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bilibili.com/video/BV11mFLziEyP",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "播放量"
+        },
+        "views": 3629204,
+        "interactions": {
+          "likes": 271423,
+          "comments": 5610,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "DiDi_OK",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:40.431595"
+      },
+      "category": "social",
+      "tags": [],
+      "meta": {
+        "source": "B站热门",
+        "platform": "bilibili",
+        "category": "social",
+        "rank": 1,
+        "collection_time": "2026-02-05T08:53:40.431612"
+      }
+    },
+    {
+      "id": "116006915867705",
+      "title": "你去打工还债吧",
+      "content": {
+        "summary": "百万播放",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": "http://i1.hdslb.com/bfs/archive/1e932b867677b788e73a3e212e4f0a244bd1ee75.jpg",
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bilibili.com/video/BV1xAFLzqEtj",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "播放量"
+        },
+        "views": 2276842,
+        "interactions": {
+          "likes": 424963,
+          "comments": 4940,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "胡桃给我来一碑吧",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:40.431624"
+      },
+      "category": "social",
+      "tags": [],
+      "meta": {
+        "source": "B站热门",
+        "platform": "bilibili",
+        "category": "social",
+        "rank": 2,
+        "collection_time": "2026-02-05T08:53:40.431626"
+      }
+    },
+    {
+      "id": "116006714411686",
+      "title": "天然水晶原石打制一把爪刀",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": "http://i2.hdslb.com/bfs/archive/a1991a2c8578da6e8304740e2b8560d63efc331b.jpg",
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bilibili.com/video/BV1s2FLzTEG8",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "播放量"
+        },
+        "views": 859374,
+        "interactions": {
+          "likes": 36294,
+          "comments": 2084,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "打石头的石大聪明",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:40.431633"
+      },
+      "category": "social",
+      "tags": [],
+      "meta": {
+        "source": "B站热门",
+        "platform": "bilibili",
+        "category": "social",
+        "rank": 3,
+        "collection_time": "2026-02-05T08:53:40.431635"
+      }
+    },
+    {
+      "id": "116010757723415",
+      "title": "混混喵的抽象小剧场——【大合集！】",
+      "content": {
+        "summary": "百万播放",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": "http://i2.hdslb.com/bfs/archive/e1ed1a5bd34070d6be8969120056f633f2a5751c.jpg",
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bilibili.com/video/BV1UsfdBSEnr",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "播放量"
+        },
+        "views": 1135626,
+        "interactions": {
+          "likes": 54156,
+          "comments": 796,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "混混小喵",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:40.431641"
+      },
+      "category": "social",
+      "tags": [],
+      "meta": {
+        "source": "B站热门",
+        "platform": "bilibili",
+        "category": "social",
+        "rank": 4,
+        "collection_time": "2026-02-05T08:53:40.431643"
+      }
+    },
+    {
+      "id": "116010355070275",
+      "title": "注意看，她是三角洲玩家见过最美的女人",
+      "content": {
+        "summary": "百万播放",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": "http://i1.hdslb.com/bfs/archive/31c66d92e32d687820f7970454a8a4d1f53c7da1.jpg",
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bilibili.com/video/BV1kqfdBrEvY",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "播放量"
+        },
+        "views": 2394800,
+        "interactions": {
+          "likes": 178277,
+          "comments": 14537,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "三角洲行动",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:40.431651"
+      },
+      "category": "social",
+      "tags": [],
+      "meta": {
+        "source": "B站热门",
+        "platform": "bilibili",
+        "category": "social",
+        "rank": 5,
+        "collection_time": "2026-02-05T08:53:40.431653"
+      }
+    },
+    {
+      "id": "116012099962848",
+      "title": "三枪打碎六套魂，长官我是老鼠人",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": "http://i1.hdslb.com/bfs/archive/c7fed63728f3380d8ece33f65d91b3e2ae42aea9.jpg",
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bilibili.com/video/BV1azfoBFE5X",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "播放量"
+        },
+        "views": 470764,
+        "interactions": {
+          "likes": 22337,
+          "comments": 504,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "尴尬的铁根er",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:40.431659"
+      },
+      "category": "social",
+      "tags": [],
+      "meta": {
+        "source": "B站热门",
+        "platform": "bilibili",
+        "category": "social",
+        "rank": 6,
+        "collection_time": "2026-02-05T08:53:40.431660"
+      }
+    },
+    {
+      "id": "116007217666210",
+      "title": "《兄弟同心 其利断金！》",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": "http://i1.hdslb.com/bfs/archive/4b2980bc4706a22b19c7910e3e63b6187096a672.jpg",
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bilibili.com/video/BV1iFfQBnEki",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "播放量"
+        },
+        "views": 1713963,
+        "interactions": {
+          "likes": 47745,
+          "comments": 439,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "龙三条",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:40.431667"
+      },
+      "category": "social",
+      "tags": [],
+      "meta": {
+        "source": "B站热门",
+        "platform": "bilibili",
+        "category": "social",
+        "rank": 7,
+        "collection_time": "2026-02-05T08:53:40.431668"
+      }
+    },
+    {
+      "id": "116012938695783",
+      "title": "烂暴雪来了：江浙沪皖将迎今年最大雨雪，立春寒潮将带来大范围降温",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": "http://i1.hdslb.com/bfs/archive/b76e5ab5b2b207ecc8d909561f5f8ec177aaabbe.jpg",
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bilibili.com/video/BV1QyffBYEs9",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "播放量"
+        },
+        "views": 231860,
+        "interactions": {
+          "likes": 14444,
+          "comments": 1228,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "中气爱",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:40.431683"
+      },
+      "category": "social",
+      "tags": [],
+      "meta": {
+        "source": "B站热门",
+        "platform": "bilibili",
+        "category": "social",
+        "rank": 8,
+        "collection_time": "2026-02-05T08:53:40.431684"
+      }
+    },
+    {
+      "id": "116004499883250",
+      "title": "加里奥教学天花板，塔爹和打野的极致运用",
+      "content": {
+        "summary": "5万点赞",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": "http://i1.hdslb.com/bfs/archive/8c5521a3ee61f031a4009bd5cb7bf4da3c3e5091.jpg",
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bilibili.com/video/BV1b3FGzeEHa",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "播放量"
+        },
+        "views": 898901,
+        "interactions": {
+          "likes": 51733,
+          "comments": 663,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "直面泰山",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:40.431692"
+      },
+      "category": "social",
+      "tags": [],
+      "meta": {
+        "source": "B站热门",
+        "platform": "bilibili",
+        "category": "social",
+        "rank": 9,
+        "collection_time": "2026-02-05T08:53:40.431694"
+      }
+    },
+    {
+      "id": "116002251671214",
+      "title": "峡谷炉炸2.5",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": "http://i0.hdslb.com/bfs/archive/3320469138bb5486a00d4f2fd60c433b4f5f0693.jpg",
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bilibili.com/video/BV1kZFMz1EY7",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "播放量"
+        },
+        "views": 927930,
+        "interactions": {
+          "likes": 39153,
+          "comments": 418,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "全险半挂炉",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:40.431701"
+      },
+      "category": "social",
+      "tags": [],
+      "meta": {
+        "source": "B站热门",
+        "platform": "bilibili",
+        "category": "social",
+        "rank": 10,
+        "collection_time": "2026-02-05T08:53:40.431703"
+      }
+    },
+    {
+      "id": "116010204007289",
+      "title": "【终末地测评#2】 灵活多变！物理队数据与实战测评",
+      "content": {
+        "summary": "1万分享",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": "http://i1.hdslb.com/bfs/archive/8e8ff6b8ba6391f0372017e9600c5d6b14a25dc2.jpg",
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bilibili.com/video/BV1eNf9BREDG",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "播放量"
+        },
+        "views": 605369,
+        "interactions": {
+          "likes": 42305,
+          "comments": 6629,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "血狼破军",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:40.431715"
+      },
+      "category": "social",
+      "tags": [],
+      "meta": {
+        "source": "B站热门",
+        "platform": "bilibili",
+        "category": "social",
+        "rank": 11,
+        "collection_time": "2026-02-05T08:53:40.431717"
+      }
+    },
+    {
+      "id": "116004164207693",
+      "title": "木雕章鱼哥吹喇叭，手搓定格版",
+      "content": {
+        "summary": "百万播放",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": "http://i1.hdslb.com/bfs/archive/2b999de71dede743debe2e8dea56d12b2eb9d67f.jpg",
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bilibili.com/video/BV1ekFGzGEP4",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "播放量"
+        },
+        "views": 3633864,
+        "interactions": {
+          "likes": 459722,
+          "comments": 2557,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "一个大岳儿",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:40.431723"
+      },
+      "category": "social",
+      "tags": [],
+      "meta": {
+        "source": "B站热门",
+        "platform": "bilibili",
+        "category": "social",
+        "rank": 12,
+        "collection_time": "2026-02-05T08:53:40.431724"
+      }
+    },
+    {
+      "id": "115994215386065",
+      "title": "改善_脖子前倾_弯腰驼背",
+      "content": {
+        "summary": "百万播放",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": "http://i2.hdslb.com/bfs/archive/4be10b28483ca4acb30e6e7a18a0c88bd86b287e.jpg",
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bilibili.com/video/BV1rL6tB7E8Y",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "播放量"
+        },
+        "views": 5873309,
+        "interactions": {
+          "likes": 506863,
+          "comments": 3038,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "天鹅老师美肩背",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:40.431730"
+      },
+      "category": "social",
+      "tags": [],
+      "meta": {
+        "source": "B站热门",
+        "platform": "bilibili",
+        "category": "social",
+        "rank": 13,
+        "collection_time": "2026-02-05T08:53:40.431732"
+      }
+    },
+    {
+      "id": "116011781068696",
+      "title": "【萌黄一槽】猿飞阿斯玛「神驹佑将」全技能爆料！拳落千钧，极意破敌",
+      "content": {
+        "summary": "百万播放",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": "http://i0.hdslb.com/bfs/archive/2595e44638c02055db07459044ad9902119e0b5b.jpg",
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bilibili.com/video/BV1BMfZBuEQJ",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "播放量"
+        },
+        "views": 1211312,
+        "interactions": {
+          "likes": 56748,
+          "comments": 7676,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "火影忍者手游情报君",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:40.431742"
+      },
+      "category": "social",
+      "tags": [],
+      "meta": {
+        "source": "B站热门",
+        "platform": "bilibili",
+        "category": "social",
+        "rank": 14,
+        "collection_time": "2026-02-05T08:53:40.431744"
+      }
+    },
+    {
+      "id": "116014045988778",
+      "title": "《守望先锋》精彩聚焦 5位新英雄将在第一赛季上线",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": "http://i2.hdslb.com/bfs/archive/ee5c9937d36ae4d6e068bf10e8ccc37fb416485f.jpg",
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bilibili.com/video/BV1JUFFzSE5k",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "播放量"
+        },
+        "views": 110181,
+        "interactions": {
+          "likes": 5194,
+          "comments": 2482,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "守望先锋",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:40.431750"
+      },
+      "category": "social",
+      "tags": [],
+      "meta": {
+        "source": "B站热门",
+        "platform": "bilibili",
+        "category": "social",
+        "rank": 15,
+        "collection_time": "2026-02-05T08:53:40.431752"
+      }
+    },
+    {
+      "id": "116010321713128",
+      "title": "众所周知，空间系的能力，总是拥有无限可能。",
+      "content": {
+        "summary": "5万点赞",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": "http://i0.hdslb.com/bfs/archive/540757f1d333043fcc314753ec16eca15ecfc405.jpg",
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bilibili.com/video/BV1Z2fdBYEFA",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "播放量"
+        },
+        "views": 736589,
+        "interactions": {
+          "likes": 60775,
+          "comments": 1023,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "马夫鱼33",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:40.431758"
+      },
+      "category": "social",
+      "tags": [],
+      "meta": {
+        "source": "B站热门",
+        "platform": "bilibili",
+        "category": "social",
+        "rank": 16,
+        "collection_time": "2026-02-05T08:53:40.431760"
+      }
+    },
+    {
+      "id": "116011781063776",
+      "title": "四起强奸传奇毒虫：爱泼斯坦“亲授”挪威王室私生子",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": "http://i2.hdslb.com/bfs/archive/d42c5590f608cf1f3783a2d56da3db394bdd01aa.jpg",
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bilibili.com/video/BV1qMfZBuE4a",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "播放量"
+        },
+        "views": 531118,
+        "interactions": {
+          "likes": 36102,
+          "comments": 1529,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "波士顿圆脸",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:40.431768"
+      },
+      "category": "social",
+      "tags": [],
+      "meta": {
+        "source": "B站热门",
+        "platform": "bilibili",
+        "category": "social",
+        "rank": 17,
+        "collection_time": "2026-02-05T08:53:40.431770"
+      }
+    },
+    {
+      "id": "116005137288341",
+      "title": "《崩坏：星穹铁道》阿哈爱看 | 幻月游戏赢家集锦",
+      "content": {
+        "summary": "8万点赞",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": "http://i0.hdslb.com/bfs/archive/051c3eea2cb1904f7d4afd25fdad82f52bc96404.jpg",
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bilibili.com/video/BV1amF5z2EYg",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "播放量"
+        },
+        "views": 860431,
+        "interactions": {
+          "likes": 88587,
+          "comments": 5992,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "帕姆的收藏夹",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:40.431856"
+      },
+      "category": "social",
+      "tags": [],
+      "meta": {
+        "source": "B站热门",
+        "platform": "bilibili",
+        "category": "social",
+        "rank": 18,
+        "collection_time": "2026-02-05T08:53:40.431858"
+      }
+    },
+    {
+      "id": "116011613292327",
+      "title": "板块大挪移",
+      "content": {
+        "summary": "5万点赞",
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": "http://i1.hdslb.com/bfs/archive/3c2950ef1019eb19b2cb9c95a614e9c1c61ddd87.jpg",
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bilibili.com/video/BV14bfZBREBC",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "播放量"
+        },
+        "views": 575207,
+        "interactions": {
+          "likes": 53383,
+          "comments": 1072,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "脱缰凯Kk",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:40.431865"
+      },
+      "category": "social",
+      "tags": [],
+      "meta": {
+        "source": "B站热门",
+        "platform": "bilibili",
+        "category": "social",
+        "rank": 19,
+        "collection_time": "2026-02-05T08:53:40.431866"
+      }
+    },
+    {
+      "id": "116005640607788",
+      "title": "最有意义的事是完成她的心愿，陪她去看湖海山川",
+      "content": {
+        "summary": null,
+        "full_text": null
+      },
+      "media": {
+        "image": {
+          "url": "http://i0.hdslb.com/bfs/archive/77ef6bbb822dd77a4f601db44c1f5d51c92c4457.jpg",
+          "thumbnail": null
+        },
+        "video": null
+      },
+      "links": {
+        "main": "https://www.bilibili.com/video/BV1XMF5zVEmW",
+        "mobile": null,
+        "share": null
+      },
+      "metrics": {
+        "hot": {
+          "value": null,
+          "label": "播放量"
+        },
+        "views": 661730,
+        "interactions": {
+          "likes": 27915,
+          "comments": 668,
+          "shares": null
+        }
+      },
+      "author": {
+        "name": "科幻导演小刚",
+        "avatar": null
+      },
+      "time": {
+        "published": null,
+        "collected": "2026-02-05T08:53:40.431872"
+      },
+      "category": "social",
+      "tags": [],
+      "meta": {
+        "source": "B站热门",
+        "platform": "bilibili",
+        "category": "social",
+        "rank": 20,
+        "collection_time": "2026-02-05T08:53:40.431876"
+      }
+    }
+  ]
+}
