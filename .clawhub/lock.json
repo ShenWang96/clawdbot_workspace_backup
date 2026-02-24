@@ -24,6 +24,54 @@
     "xiaohongshu-mcp": {
       "version": "1.0.0",
       "installedAt": 1771528083129
+    },
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1771903440237
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1771906085236
+    },
+    "marketing-mode": {
+      "version": "1.0.0",
+      "installedAt": 1771906115515
+    },
+    "mineru": {
+      "version": "1.0.1",
+      "installedAt": 1771906158080
+    },
+    "word-docx": {
+      "version": "1.0.0",
+      "installedAt": 1771906162280
+    },
+    "excel-xlsx": {
+      "version": "1.0.1",
+      "installedAt": 1771906166350
+    },
+    "ppt-generator": {
+      "version": "1.0.0",
+      "installedAt": 1771906249074
+    },
+    "seo-content-writer": {
+      "version": "2.0.0",
+      "installedAt": 1771906259634
+    },
+    "research-assistant": {
+      "version": "1.0.1",
+      "installedAt": 1771906298279
+    },
+    "para-second-brain": {
+      "version": "2.0.1",
+      "installedAt": 1771906331947
+    },
+    "brand-cog": {
+      "version": "1.0.2",
+      "installedAt": 1771906339903
+    },
+    "stealth-browser": {
+      "version": "1.0.0",
+      "installedAt": 1771918673539
     }
   }
 }
